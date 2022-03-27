@@ -34,7 +34,7 @@ export default function Homepage({ user, cards, error }) {
                             }
                         </div>
                         <div className={style.badges} style={(user?.status?.emote || user?.status?.text) ? { marginTop: 8 } : { marginTop: width > 540 ? 14 : 4 }}>
-                            <button className={style.badge} title='https://austinispog.tk/discord' onClick={() => window.open('https://austinispog.tk/discord')}> <HiOutlineFire style={{ height: 22, width: 22, marginRight: 4 }} /> UI&nbsp;Designer </button>
+                            <button className={style.badge} title='https://austinispog.tk/youtube' onClick={() => window.open('https://austinispog.tk/youtube')}> <HiOutlineFire style={{ height: 22, width: 22, marginRight: 4 }} /> Content Creator </button>
                             <button className={style.badge} title='https://austinispog.tk/github' onClick={() => window.open('https://austinispog.tk/github')}> <HiOutlineCode style={{ height: 22, width: 22, marginRight: 4 }} /> Developer </button>
                         </div>
                     </div>

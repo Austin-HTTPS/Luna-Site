@@ -31,7 +31,7 @@ module.exports = {
         position: `Founder, Developer`,
     }, {
         name: 'IP Teller',
-        icon: 'https://cdn.discordapp.com/avatars/525748238255390721/8787f4919607add166979e0d9578b9fb.png?size=1024',
+        icon: 'https://www.elegantthemes.com/blog/wp-content/uploads/2020/03/what-is-an-ip-address-featured-image.jpg',
         description: 'See your IP address super fast with privacy!',
         url: 'https://ip.austinispog.tk',
         position: `Founder/Owner`,
