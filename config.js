@@ -14,8 +14,8 @@ module.exports = {
                 text: "dnd",
                 color: "#ED4245"
             },
-            emote: "https://www.austinispog.tk/B44F3C70-2F59-4475-A964-6BA00A764B8C.jpg",
-            text: "austinispog.tk • always learning"
+            emote: "https://discord.com/assets/ac4bcb496ca349a21b05e400bd8ac5dc.svg",
+            text: "#IstandwithUkraine"
         },
         activities: [],
         createdTimestamp: 1615924806867,
@@ -55,7 +55,7 @@ module.exports = {
         position: `Owner`
     }, {
         name: 'Speedtest',
-        icon: 'https://brands.home-assistant.io/_/speedtestdotnet/logo.png',
+        icon: 'https://www.austinispog.tk/speedtestsite.png',
         description: 'The fast, free, and private speedtest.',
         url: 'https://speedtest.austinispog.tk',
         position: `Owner`
@@ -72,7 +72,7 @@ module.exports = {
     metadata: {
         title: `Austin - Content Creator and Discord Moderator`,
         description: `Hey hey! My name is Austin, I'm a small content creator & streamer, as well as moderate & manage many communities on Discord. I also enjoy playing with my dog and helping other people.`,
-        image: `https://avatars.githubusercontent.com/u/71079641?v=4`,
+        image: `https://www.austinispog.tk/B44F3C70-2F59-4475-A964-6BA00A764B8C.jpg`,
         domainName: `austinispog.tk`,
         color: `#f19bec`,
         keywords: [
