@@ -14,7 +14,7 @@ module.exports = {
                 text: "dnd",
                 color: "#ED4245"
             },
-            emote: "https://discord.com/assets/ac4bcb496ca349a21b05e400bd8ac5dc.svg",
+            emote: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/800px-Flag_of_Ukraine.svg.png",
             text: "#IstandwithUkraine"
         },
         activities: [],
