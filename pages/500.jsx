@@ -6,7 +6,7 @@ export default class Error500 extends React.Component {
         return (
             <>
                 <Head>
-                    <title>Luna - 500</title>
+                    <title>Austin - 500</title>
                 </Head>
                 <div className={style.align}>
                     <div className={style.container}>

@@ -34,34 +34,35 @@ export default function Homepage({ user, cards, error }) {
                             }
                         </div>
                         <div className={style.badges} style={(user?.status?.emote || user?.status?.text) ? { marginTop: 8 } : { marginTop: width > 540 ? 14 : 4 }}>
-                            <button className={style.badge} title='https://waya.one/go/blog_be499f28-b1ac-48da-b0fa-13a21c12d173' onClick={() => window.open('https://waya.one/go/blog_be499f28-b1ac-48da-b0fa-13a21c12d173')}> <HiOutlineFire style={{ height: 22, width: 22, marginRight: 4 }} /> UI&nbsp;Designer </button>
-                            <button className={style.badge} title='https://waya.one/go/github' onClick={() => window.open('https://waya.one/go/github')}> <HiOutlineCode style={{ height: 22, width: 22, marginRight: 4 }} /> Developer </button>
+                            <button className={style.badge} title='https://austinispog.tk/discord' onClick={() => window.open('https://austinispog.tk/discord')}> <HiOutlineFire style={{ height: 22, width: 22, marginRight: 4 }} /> UI&nbsp;Designer </button>
+                            <button className={style.badge} title='https://austinispog.tk/github' onClick={() => window.open('https://austinispog.tk/github')}> <HiOutlineCode style={{ height: 22, width: 22, marginRight: 4 }} /> Developer </button>
                         </div>
                     </div>
                     <div className={style.content}>
                         <div className={style.readme}>
                             <strong style={{ fontSize: 27 }}>👋 About me</strong> <br />
                             <div style={{ marginTop: 8, marginLeft: 12 }}>
-                                I'm <strong>Luna</strong>, born at <strong>17th of April 2007</strong> and live in <strong>Austria</strong> near Vienna.
-                                I'm some hobby <strong>Software Engineer</strong> and <strong>LGBTQ+ Activist</strong>.
-                                I self taught me the <strong>MERN</strong> stack with a bit of help from friends!
-                                Learn more about my story and my projects <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://waya.one/go/work')}>in my blog</button> 🌈
+                                I'm <strong>Austin</strong>, born on <strong>March 16,</strong> and live in <strong>California</strong>.
+                                I'm a small content creator and discord moderator.
+                                I self taught myself how to <strong>W-Tap</strong> in Minecraft.
+                                Learn more about what I do and some of my projects.
                             </div>
                             <br />
-                            <strong style={{ fontSize: 27 }}>🪄 Languages & Frameworks</strong><br />
+                            <strong style={{ fontSize: 27 }}>Social Medias</strong><br />
                             <div style={{ marginTop: 8, marginLeft: 12 }}>
-                                •&nbsp; JavaScript<br />
-                                •&nbsp; Node.JS<br />
-                                •&nbsp; MongoDB<br />
-                                •&nbsp; HTML & CSS<br />
-                                •&nbsp; React, Next.JS<br />
-                                •&nbsp; Express
+                                •<button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://austinispog.tk/discord')}>Discord</button> <br />
+                                •<button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://austinispog.tk/youtube')}>YouTube</button> <br />
+                                •<button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://austinispog.tk/instagram')}>Instagram</button> <br />
+                                •<button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://austinispog.tk/github')}>Github</button> <br />
+                                •<button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://austinispog.tk/twitter')}>Twitter</button> <br />
+                                •<button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://austinispog.tk/twitch')}>Twitch</button> <br />
+                                •<button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://austinispog.tk/tiktok')}>TikTok</button>
                             </div>
                             <br />
                             <strong style={{ fontSize: 27 }}>🍧 Contact</strong><br />
                             <div style={{ marginTop: 8, marginLeft: 12 }}>
                                 You want to collaborate with me or just talk? <br />
-                                Join my <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://waya.one/go/discord')}>Discord server</button> and shoot a ping at me!
+                                Join my <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://austinispog.tk/discord')}>Discord server</button> and shoot a ping at me!
                             </div>
                         </div>
                         <div className={user?.activities.length > 0 ? style.section : ''}>

@@ -1,111 +1,88 @@
 module.exports = {
     api: {
-        url: 'https://whois.waya.one',
-        path: '/'
+        url: null,
+        path: null
     },
     user: {
-        id: "821472922140803112",
-        username: "Lunish",
-        discriminator: "8888",
-        nickname: "Luna",
-        nickavatar: "https://cdn.waya.one/r/luna_smile.png",
+        id: "599336348381609984",
+        username: "MrAustin",
+        discriminator: "3915",
+        nickname: "Austin",
+        nickavatar: "IMG_2692.jpg",
         status: {
             state: {
                 text: "dnd",
                 color: "#ED4245"
             },
-            emote: "https://cdn.discordapp.com/emojis/682858108862726191.gif?size=2048",
-            text: "waya.one • Stressed out"
+            emote: "https://www.austinispog.tk/B44F3C70-2F59-4475-A964-6BA00A764B8C.jpg",
+            text: "austinispog.tk • always learning"
         },
         activities: [],
         createdTimestamp: 1615924806867,
-        avatar: "https://cdn.waya.one/r/luna_smile.png",
-        banner: "https://cdn.waya.one/r/sunset.gif",
+        avatar: "https://www.austinispog.tk/B44F3C70-2F59-4475-A964-6BA00A764B8C.jpg",
+        banner: "https://www.austinispog.tk/illustration-night-mountains-stars-wallpaper_3500-1969-1539560122.png",
         accentColor: "#ce3760"
     },
     cards: [{
-        name: 'waya',
-        icon: 'https://cdn.discordapp.com/avatars/857230367350063104/a54dbb364757f99076f36003ae68f77f.png?size=1024',
-        description: 'A simple multi-function bot with Pronouns Select, Starboard and more.',
-        url: 'https://waya.one/go/topgg',
+        name: 'Rick Roll Detecter',
+        icon: 'https://i.ytimg.com/vi/0lQqK-ofK3M/maxresdefault.jpg',
+        description: 'A simple rick roll decter to make sure you dont get Rick Rolled!',
+        url: 'https://rickrolldetect.austinispog.tk',
         position: `Founder, Developer`,
-        bot: 2
     }, {
-        name: 'Dasu',
+        name: 'IP Teller',
         icon: 'https://cdn.discordapp.com/avatars/525748238255390721/8787f4919607add166979e0d9578b9fb.png?size=1024',
-        description: 'Utilize powerful rules and control your giveaways with no limitations.',
-        url: 'https://dasu.gifts',
-        position: `Moderator`,
-        bot: 2
+        description: 'See your IP address super fast with privacy!',
+        url: 'https://ip.austinispog.tk',
+        position: `Founder/Owner`,
     }, {
-        name: 'Pronouns',
-        icon: 'https://cdn.waya.one/r/pronouns.png',
-        description: 'A Simple way to add your Pronouns and Sexualities in Discord.',
-        url: 'https://prns.waya.one',
+        name: 'Service Worker',
+        icon: 'https://www.keycdn.com/img/blog/service-workers.png',
+        description: 'A website to tell you how to make your website available offline.',
+        url: 'https://service-worker.austinispog.tk/',
         position: `Founder, Developer`,
-        bot: 2
     }, {
-        name: 'Formie',
-        icon: 'https://cdn.discordapp.com/attachments/955467053425369191/955468699958149120/higlitedblue.png',
-        description: 'A simple Bot to manage your Apps over very simple and user-friendly forms!',
-        url: 'https://discord.gg/7GuTWp4X9z',
-        position: `Developer`,
-        bot: 1
+        name: 'MC Assets',
+        icon: 'https://mcasset.cloud/img/mc-assets-2-256.png',
+        description: 'Get the assets of every Minecraft Java edition version and snapshot!',
+        url: 'https://mcassets.austinispog.tk',
+        position: `Owner`,
     }, {
-        name: 'discord-botlist.eu',
-        icon: 'https://cdn.discord-botlist.eu/pictures/logo.png',
-        description: 'We give you the ability to apply and give your bot a page on our site.',
-        url: 'https://discord-botlist.eu',
-        position: `Moderator`
+        name: 'Time Teller',
+        icon: 'https://m.media-amazon.com/images/I/812L5zyAmpL._AC_SL1500_.jpg',
+        description: 'See what your time is, in any way!',
+        url: 'https://time.austinispog.tk',
+        position: `Owner`
     }, {
-        name: 'Tixte',
-        icon: 'https://tixte.com/static/media/logo_mark.d3b45ae2.png',
-        description: 'The fast, free and easy way to upload and store your files in the cloud.',
-        url: 'https://discord.gg/vWcEAX5G4B',
-        position: `Moderator`
+        name: 'Speedtest',
+        icon: 'https://brands.home-assistant.io/_/speedtestdotnet/logo.png',
+        description: 'The fast, free, and private speedtest.',
+        url: 'https://speedtest.austinispog.tk',
+        position: `Owner`
     }],
     header: {
-        icon: `https://cdn.waya.one/r/luna_lone1.gif`,
-        name: `Luna Seemann`,
+        icon: `https://www.austinispog.tk/illustration-night-mountains-stars-wallpaper_3500-1969-1539560122.png`,
+        name: `Austin`,
         buttons: {
-            Discord: `/go/discord`,
-            GitHub: `/go/github`,
-            Twitter: `/go/twitter`
+            Discord: `/discord`,
+            GitHub: `/github`,
+            Twitter: `/twitter`
         }
     },
     metadata: {
-        title: `Luna - Software Engineer and LGBTQ+ Activist`,
-        description: `Heyia, I'm Luna and I was born 14 years ago and live in Austria.`,
+        title: `Austin - Content Creator and Discord Moderator`,
+        description: `Hey hey! My name is Austin, I'm a small content creator & streamer, as well as moderate & manage many communities on Discord. I also enjoy playing with my dog and helping other people.`,
         image: `https://avatars.githubusercontent.com/u/71079641?v=4`,
-        domainName: `waya.one`,
+        domainName: `austinispog.tk`,
         color: `#f19bec`,
         keywords: [
-            'Luna',
-            'Lunish',
-            'Lunish#8888',
-            'Lunish Twitter',
-            'Lunish Discord',
-            'Lunish GitHub',
-            'Lunish Onlyfans',
-            'waya bot',
-            'waya',
-            'waya.one',
-            'discord waya',
-            'Seemann',
-            'Luna Seemann',
-            'Flamex',
-            'Bendix',
-            'dbleu',
-            'dbleu staff',
-            'discord-botlist.eu',
-            'discord-botlist.eu staff',
-            'Tixte',
-            'Tixte staff',
-            'Dasu',
-            'Dasu staff',
-            'Pronouns',
-            'Pronouns bot',
-            'Pronouns discord'
+            'Austin',
+            'MrAustin',
+            'MrAustin#3915',
+            'Beddzie',
+            'NotMrAustin',
+            'Austins Oasis',
+            'Austin SMP'
         ],
     }
 }
