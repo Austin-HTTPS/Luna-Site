@@ -44,7 +44,7 @@ export default function Homepage({ user, cards, error }) {
                             <div style={{ marginTop: 8, marginLeft: 12 }}>
                                 I'm <strong>Austin</strong>, born on <strong>March 16,</strong> and live in <strong>California</strong>.
                                 I'm a small content creator and discord moderator.
-                                I self taught myself how to <strong>W-Tap</strong> in Minecraft.
+                                I self taught myself how to <strong>moderate</strong> Discord servers.
                                 Learn more about what I do and some of my projects.
                             </div>
                             <br />
