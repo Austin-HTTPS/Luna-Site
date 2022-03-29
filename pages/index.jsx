@@ -34,7 +34,7 @@ export default function Homepage({ user, cards, error }) {
                             }
                         </div>
                         <div className={style.badges} style={(user?.status?.emote || user?.status?.text) ? { marginTop: 8 } : { marginTop: width > 540 ? 14 : 4 }}>
-                            <button className={style.badge} title='https://austinispog.tk/youtube' onClick={() => window.open('https://austinispog.tk/youtube')}> <HiOutlineFire style={{ height: 22, width: 22, marginRight: 4 }} /> Content Creator </button>
+                            <button className={style.badge} title='https://austinispog.tk/youtube' onClick={() => window.open('https://austinispog.tk/youtube')}> <HiOutlineFire style={{ height: 22, width: 22, marginRight: 4 }} /> YouTuber </button>
                             <button className={style.badge} title='https://austinispog.tk/github' onClick={() => window.open('https://austinispog.tk/github')}> <HiOutlineCode style={{ height: 22, width: 22, marginRight: 4 }} /> Developer </button>
                         </div>
                     </div>
@@ -62,7 +62,7 @@ export default function Homepage({ user, cards, error }) {
                             <strong style={{ fontSize: 27 }}>🍧 Contact</strong><br />
                             <div style={{ marginTop: 8, marginLeft: 12 }}>
                                 You want to collaborate with me or just talk? <br />
-                                Join my <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://austinispog.tk/discord')}>Discord server</button> and shoot a ping at me!
+                                Join my <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://austinispog.tk/discord')}>Discord server</button> and shoot a ping at me or email me at <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('mailto:hi@austinispog.tk')}>hi@austinispog.tk</button>!
                             </div>
                         </div>
                         <div className={user?.activities.length > 0 ? style.section : ''}>
