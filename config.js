@@ -28,19 +28,19 @@ module.exports = {
         icon: 'https://i.ytimg.com/vi/0lQqK-ofK3M/maxresdefault.jpg',
         description: 'A simple rick roll decter to make sure you dont get Rick Rolled!',
         url: 'https://rickrolldetect.austinispog.tk',
-        position: `Founder, Developer`,
+        position: `Founder`,
     }, {
         name: 'IP Teller',
         icon: 'https://www.elegantthemes.com/blog/wp-content/uploads/2020/03/what-is-an-ip-address-featured-image.jpg',
         description: 'See your IP address super fast with privacy!',
         url: 'https://ip.austinispog.tk',
-        position: `Founder/Owner`,
+        position: `Founder`,
     }, {
         name: 'Service Worker',
         icon: 'https://www.keycdn.com/img/blog/service-workers.png',
         description: 'A website to tell you how to make your website available offline.',
         url: 'https://service-worker.austinispog.tk/',
-        position: `Founder, Developer`,
+        position: `Founder`,
     }, {
         name: 'MC Assets',
         icon: 'https://mcasset.cloud/img/mc-assets-2-256.png',
