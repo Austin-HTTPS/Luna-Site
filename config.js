@@ -46,19 +46,19 @@ module.exports = {
         icon: 'https://mcasset.cloud/img/mc-assets-2-256.png',
         description: 'Get the assets of every Minecraft Java edition version and snapshot!',
         url: 'https://mcassets.austinispog.tk',
-        position: `Owner`,
+        position: `Founder`,
     }, {
         name: 'Time Teller',
         icon: 'https://m.media-amazon.com/images/I/812L5zyAmpL._AC_SL1500_.jpg',
         description: 'See what your time is, in any way!',
         url: 'https://time.austinispog.tk',
-        position: `Owner`
+        position: `Founder`
     }, {
         name: 'Speedtest',
         icon: 'https://www.austinispog.tk/speedtestsite.png',
         description: 'The fast, free, and private speedtest.',
         url: 'https://speedtest.austinispog.tk',
-        position: `Owner`
+        position: `Founder`
     }],
     header: {
         icon: `https://www.austinispog.tk/illustration-night-mountains-stars-wallpaper_3500-1969-1539560122.png`,
