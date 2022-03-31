@@ -15,7 +15,7 @@ module.exports = {
                 color: "#ED4245"
             },
             emote: "https://www.austinispog.tk/952692335643332630.webp",
-            text: "austinispog.tk • always learning :)"
+            text: "being a chad gamer"
         },
         activities: [],
         createdTimestamp: 1615924806867,
