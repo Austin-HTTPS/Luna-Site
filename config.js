@@ -8,19 +8,19 @@ module.exports = {
         username: "MrAustin",
         discriminator: "3915",
         nickname: "Austin",
-        nickavatar: "https://www.austinispog.tk/B44F3C70-2F59-4475-A964-6BA00A764B8C.jpg",
+        nickavatar: "B44F3C70-2F59-4475-A964-6BA00A764B8C.jpg",
         status: {
             state: {
                 text: "dnd",
                 color: "#ED4245"
             },
-            emote: "https://www.austinispog.tk/952692335643332630.webp",
+            emote: "952692335643332630.webp",
             text: "being a chad gamer"
         },
         activities: [],
         createdTimestamp: 1615924806867,
-        avatar: "https://www.austinispog.tk/B44F3C70-2F59-4475-A964-6BA00A764B8C.jpg",
-        banner: "https://www.austinispog.tk/illustration-night-mountains-stars-wallpaper_3500-1969-1539560122.png",
+        avatar: "B44F3C70-2F59-4475-A964-6BA00A764B8C.jpg",
+        banner: "illustration-night-mountains-stars-wallpaper_3500-1969-1539560122.png",
         accentColor: "#ce3760"
     },
     cards: [{
@@ -55,13 +55,13 @@ module.exports = {
         position: `Founder`
     }, {
         name: 'Speedtest',
-        icon: 'https://www.austinispog.tk/speedtestsite.png',
+        icon: 'speedtestsite.png',
         description: 'The fast, free, and private speedtest.',
         url: 'https://speedtest.austinispog.tk',
         position: `Founder`
     }],
     header: {
-        icon: `https://www.austinispog.tk/illustration-night-mountains-stars-wallpaper_3500-1969-1539560122.png`,
+        icon: `illustration-night-mountains-stars-wallpaper_3500-1969-1539560122.png`,
         name: `Austin`,
         buttons: {
             Discord: `/discord`,
@@ -72,7 +72,7 @@ module.exports = {
     metadata: {
         title: `Austin - Content Creator and Discord Moderator`,
         description: `Hey hey! My name is Austin, I'm a small content creator & streamer, as well as moderate & manage many communities on Discord. I also enjoy playing with my dog and helping other people.`,
-        image: `https://www.austinispog.tk/B44F3C70-2F59-4475-A964-6BA00A764B8C.jpg`,
+        image: `B44F3C70-2F59-4475-A964-6BA00A764B8C.jpg`,
         domainName: `austinispog.tk`,
         color: `#f19bec`,
         keywords: [

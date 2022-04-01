@@ -37,13 +37,13 @@ a {
 
 .link {
     font-family: 'Open Sans', sans-serif;
-    color: #b671a7;
+    color: #00d5ff;
     cursor: pointer;
     transition-duration: 300ms;
 }
 
 .link:hover {
-    color: #9c5c8e;
+    color: #1d65d7;
 }
 
 ::-webkit-scrollbar {
@@ -113,27 +113,27 @@ button {
 
 @keyframes rainbow {
     from {
-        color: #a9aec0
+        color: #99ff00
     }
 
     22% {
-        color: rgb(209, 90, 151)
+        color: rgb(0, 213, 255)
     }
 
     44% {
-        color: rgb(209, 56, 83)
+        color: rgb(255, 0, 247)
     }
 
     66% {
-        color: rgb(108, 67, 212)
+        color: rgb(255, 0, 0)
     }
 
     88% {
-        color: rgb(55, 142, 212)
+        color: rgb(255, 221, 0)
     }
 
     to {
-        color: #a9aec0
+        color: #0037ff
     }
 }
 
