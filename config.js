@@ -8,7 +8,7 @@ module.exports = {
         username: "MrAustin",
         discriminator: "3915",
         nickname: "Austin",
-        nickavatar: "B44F3C70-2F59-4475-A964-6BA00A764B8C.jpg",
+        nickavatar: "verycoolpfp22.png",
         status: {
             state: {
                 text: "dnd",
@@ -19,7 +19,7 @@ module.exports = {
         },
         activities: [],
         createdTimestamp: 1615924806867,
-        avatar: "B44F3C70-2F59-4475-A964-6BA00A764B8C.jpg",
+        avatar: "verycoolpfp22.png",
         banner: "illustration-night-mountains-stars-wallpaper_3500-1969-1539560122.png",
         accentColor: "#ce3760"
     },
