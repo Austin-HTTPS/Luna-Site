@@ -44,20 +44,20 @@ module.exports = {
     }, {
         name: 'MC Assets',
         icon: 'https://mcasset.cloud/img/mc-assets-2-256.png',
-        description: 'Get the assets of every Minecraft Java edition version and snapshot!',
+        description: 'Get the assets of every Minecraft Java edition version and snapshot! [Given permission by owner]',
         url: 'https://mcassets.austinispog.tk',
-        position: `Founder`,
+        position: `Fork Creator`,
     }, {
-        name: 'Time Teller',
-        icon: 'https://m.media-amazon.com/images/I/812L5zyAmpL._AC_SL1500_.jpg',
-        description: 'See what your time is, in any way!',
-        url: 'https://time.austinispog.tk',
+        name: 'Austins Oasis',
+        icon: 'server-icon.png',
+        description: 'A fun SMP with a ton of plugins to make the game look, sound, and feel better!',
+        url: 'https://mc.austinispog.tk',
         position: `Founder`
     }, {
-        name: 'Speedtest',
-        icon: 'speedtestsite.png',
-        description: 'The fast, free, and private speedtest.',
-        url: 'https://speedtest.austinispog.tk',
+        name: 'Minecraft Help',
+        icon: 'trial-hero-image-golem.png',
+        description: 'The place to find helpful rescoures, info, recipes, and much more for Minecraft! [IN DEVELOPMENT]',
+        url: 'https://mchelp.austinispog.tk',
         position: `Founder`
     }],
     header: {
@@ -72,7 +72,7 @@ module.exports = {
     metadata: {
         title: `Austin - Content Creator and Discord Moderator`,
         description: `Hey hey! My name is Austin, I'm a small content creator & streamer, as well as moderate & manage many communities on Discord. I also enjoy playing with my dog and helping other people.`,
-        image: `B44F3C70-2F59-4475-A964-6BA00A764B8C.jpg`,
+        image: `verycoolpfp22.png`,
         domainName: `austinispog.tk`,
         color: `#f19bec`,
         keywords: [
@@ -82,7 +82,8 @@ module.exports = {
             'Beddzie',
             'NotMrAustin',
             'Austins Oasis',
-            'Austin SMP'
+            'Austin SMP',
+            'AustinLmao'
         ],
     }
 }
