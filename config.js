@@ -61,7 +61,7 @@ module.exports = {
         position: `Founder`
     }],
     header: {
-        icon: `illustration-night-mountains-stars-wallpaper_3500-1969-1539560122.png`,
+        icon: `5f459e3acca1158310a937e73203f8a1.png`,
         name: `Austin`,
         buttons: {
             Discord: `/discord`,
