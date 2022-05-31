@@ -24,11 +24,11 @@ module.exports = {
         accentColor: "#ce3760"
     },
     cards: [{
-        name: 'Rick Roll Detecter',
-        icon: 'https://i.ytimg.com/vi/0lQqK-ofK3M/maxresdefault.jpg',
-        description: 'A simple rick roll decter to make sure you dont get Rick Rolled!',
-        url: 'https://rickrolldetect.austinispog.tk',
-        position: `Founder`,
+        name: 'WarzoneMC',
+        icon: 'a_e6e56bad26599c76ab7288c60c4d4eb3.gif',
+        description: 'Warzone is a team organized gamemode where your goal is to follow the objective of the round while stopping the other team from achieving so too.',
+        url: 'https://warzone.network',
+        position: `Jr. Mod`,
     }, {
         name: 'IP Teller',
         icon: 'https://www.elegantthemes.com/blog/wp-content/uploads/2020/03/what-is-an-ip-address-featured-image.jpg',
@@ -52,13 +52,13 @@ module.exports = {
         icon: 'server-icon.png',
         description: 'A fun SMP with a ton of plugins to make the game look, sound, and feel better!',
         url: 'https://mc.austinispog.tk',
-        position: `Founder`
+        position: `Founder/Owner`
     }, {
         name: 'Minecraft Help',
         icon: 'trial-hero-image-golem.png',
         description: 'The place to find helpful rescoures, info, recipes, and much more for Minecraft! [IN DEVELOPMENT]',
         url: 'https://mchelp.austinispog.tk',
-        position: `Founder`
+        position: `Founder/Owner`
     }],
     header: {
         icon: `5f459e3acca1158310a937e73203f8a1.png`,
