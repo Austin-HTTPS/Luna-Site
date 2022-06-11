@@ -28,7 +28,7 @@ module.exports = {
         icon: 'a_e6e56bad26599c76ab7288c60c4d4eb3.gif',
         description: 'Warzone is a team organized gamemode where your goal is to follow the objective of the round while stopping the other team from achieving so too.',
         url: 'https://warzone.network',
-        position: `Jr. Mod`,
+        position: `Former Jr. Mod`,
     }, {
         name: 'IP Teller',
         icon: 'https://www.elegantthemes.com/blog/wp-content/uploads/2020/03/what-is-an-ip-address-featured-image.jpg',
