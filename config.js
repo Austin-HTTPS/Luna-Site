@@ -30,17 +30,17 @@ module.exports = {
         url: 'https://warzone.network',
         position: `Former Jr. Mod`,
     }, {
-        name: 'IP Teller',
-        icon: 'https://www.elegantthemes.com/blog/wp-content/uploads/2020/03/what-is-an-ip-address-featured-image.jpg',
-        description: 'See your IP address super fast with privacy!',
-        url: 'https://ip.austinispog.tk',
-        position: `Founder`,
+        name: 'Discord Pride [Private Access]',
+        icon: '02fc485679ec85b0dad86bdb3c6c1eda.webp',
+        description: 'Discord Pride is a server targated towards the LGBTQ+ Community, our goal here is to create a safe space and an amazing world filled with you amazing people and chat, meet friends, and simply hangout with the us.',
+        url: 'https://discord.com/community/',
+        position: `Moderator`,
     }, {
         name: 'Service Worker',
         icon: 'https://www.keycdn.com/img/blog/service-workers.png',
         description: 'A website to tell you how to make your website available offline.',
         url: 'https://service-worker.austinispog.tk/',
-        position: `Founder`,
+        position: `Owner`,
     }, {
         name: 'MC Assets',
         icon: 'https://mcasset.cloud/img/mc-assets-2-256.png',
