@@ -40,7 +40,7 @@ module.exports = {
         icon: 'https://www.keycdn.com/img/blog/service-workers.png',
         description: 'A website to tell you how to make your website available offline.',
         url: 'https://service-worker.austinispog.tk/',
-        position: ``,
+        position: `Founder/Owner`,
     }, {
         name: 'WarzoneMC',
         icon: 'a_e6e56bad26599c76ab7288c60c4d4eb3.gif',
