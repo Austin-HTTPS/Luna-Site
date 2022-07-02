@@ -24,29 +24,29 @@ module.exports = {
         accentColor: "#ce3760"
     },
     cards: [{
-        name: 'WarzoneMC',
-        icon: 'a_e6e56bad26599c76ab7288c60c4d4eb3.gif',
-        description: 'Warzone is a team organized gamemode where your goal is to follow the objective of the round while stopping the other team from achieving so too.',
-        url: 'https://warzone.network',
-        position: `Former Jr. Mod`,
+        name: 'Halos Hut',
+        icon: 'cb9c106df86b493455a1cce977d2e867.webp',
+        description: 'Halos Hut, a friendly Discord and Minecraft server.',
+        url: 'https://halostv.com/',
+        position: `MC Server Jr. Staff`,
     }, {
-        name: 'Discord Pride [Private Access]',
-        icon: '02fc485679ec85b0dad86bdb3c6c1eda.webp',
-        description: 'Discord Pride is a server targated towards the LGBTQ+ Community, our goal here is to create a safe space and an amazing world filled with you amazing people and chat, meet friends, and simply hangout with the us.',
-        url: 'https://discord.com/community/',
-        position: `Moderator`,
+        name: 'MC Bedrock Chillzone',
+        icon: 'a_b33fc7d48d66fc39ccee397d752426fd.gif',
+        description: 'MC Bedrock Chillzone, a relaxing server created to bring the Minecraft Bedrock community together! We were created when Neb, a Minecraft Bedrock Edition player, saw how much hate Bedrock Edition players were getting in the community and wondered what he could do. Over 2 years later, MCBC is growing daily to help people find friends and play Minecraft.',
+        url: 'https://discord.gg/VxXNywGx8U',
+        position: `Jr. Staff`,
     }, {
         name: 'Service Worker',
         icon: 'https://www.keycdn.com/img/blog/service-workers.png',
         description: 'A website to tell you how to make your website available offline.',
         url: 'https://service-worker.austinispog.tk/',
-        position: `Owner`,
+        position: ``,
     }, {
-        name: 'MC Assets',
-        icon: 'https://mcasset.cloud/img/mc-assets-2-256.png',
-        description: 'Get the assets of every Minecraft Java edition version and snapshot! [Given permission by owner]',
-        url: 'https://mcassets.austinispog.tk',
-        position: `Fork Creator`,
+        name: 'WarzoneMC',
+        icon: 'a_e6e56bad26599c76ab7288c60c4d4eb3.gif',
+        description: 'Warzone is a team organized gamemode where your goal is to follow the objective of the round while stopping the other team from achieving so too.',
+        url: 'https://warzone.network',
+        position: `Former Jr. Mod`,
     }, {
         name: 'Austins Oasis',
         icon: 'server-icon.png',
@@ -83,7 +83,8 @@ module.exports = {
             'NotMrAustin',
             'Austins Oasis',
             'Austin SMP',
-            'AustinLmao'
+            'AustinLmao',
+            'AyoAustin'
         ],
     }
 }
