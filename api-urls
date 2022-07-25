@@ -8,4 +8,4 @@ module.exports = {
         url: 'https://whois.austinispog.tk',
         path: '/'
 
-- replace the '' with null if not using it
+- replace the '' with null if not using it / viceresa

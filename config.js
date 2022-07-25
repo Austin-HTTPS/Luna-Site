@@ -1,7 +1,7 @@
 module.exports = {
     api: {
-        url: 'https://whois.austinispog.tk',
-        path: '/'
+        url: null,
+        path: null
     },
     user: {
         id: "599336348381609984",
