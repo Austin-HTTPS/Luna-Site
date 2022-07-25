@@ -51,14 +51,14 @@ export default function Homepage({ user, cards, error }) {
                             <strong style={{ fontSize: 27 }}>Social Medias</strong><br />
                             <div style={{ marginTop: 8, marginLeft: 12 }}>
                                 •<button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://austinispog.tk/discord')}>Discord<i class="fa-brands fa-discord"></i></button> <br />
-                                •<button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://austinispog.tk/youtube')}>YouTube<i class="fa-brands fa-youtube"></i></button> <br />
-                                •<button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://austinispog.tk/instagram')}>Instagram<i class="fa-brands fa-instagram"></i></button> <br />
-                                •<button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://austinispog.tk/github')}>Github<i class="fa-brands fa-github"></i></button> <br />
-                                •<button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://austinispog.tk/twitter')}>Twitter<i class="fa-brands fa-twitter"></i></button> <br />
-                                •<button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://austinispog.tk/twitch')}>Twitch<i class="fa-brands fa-twitch"></i></button> <br />
-                                •<button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://austinispog.tk/tiktok')}>TikTok<i class="fa-brands fa-tiktok"></i></button>
-                              •<button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://austinispog.tk/spotify')}>Spotify<i class="fa-brands fa-spotify"></i></button>
-                              •<button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://austinispog.tk/steam')}>Steam<i class="fa-brands fa-steam"></i></button>
+                                •<button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://austinispog.tk/youtube')}>YouTube</button> <br />
+                                •<button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://austinispog.tk/instagram')}>Instagram</button> <br />
+                                •<button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://austinispog.tk/github')}>Github</button> <br />
+                                •<button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://austinispog.tk/twitter')}>Twitter</button> <br />
+                                •<button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://austinispog.tk/twitch')}>Twitch</button> <br />
+                                •<button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://austinispog.tk/tiktok')}>TikTok</button>
+                              •<button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://austinispog.tk/spotify')}>Spotify</button>
+                              •<button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://austinispog.tk/steam')}>Steam</button>
                             </div>
                             <br />
                             <strong style={{ fontSize: 27 }}>🍧 Contact</strong><br />
