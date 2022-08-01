@@ -28,12 +28,12 @@ export default function Homepage({ user, cards, error }) {
                             {(user?.status?.emote || user?.status?.text) ?
                                 <div style={{ display: 'felx' }}>
                                     {user?.status?.emote ? <img src={user?.status?.emote} style={{ width: 24, borderRadius: 3, marginTop: 4, marginRight: 3 }} draggable={false} /> : <></>}
-                                    <text style={{ position: 'relative', top: -5, left: 4, color: '#CCCCCC', fontSize: 20 }}>{user?.status?.text ? user?.status?.text : ``}</text> <br />
+                                    <text style={{ position: 'relative', top: -5, left: 4, color: '#CCCCCC', fontSize: 20 }}>{user?.status?.text ? user?.status?.text : ``}</text>
                                 </div>
                                 : <></>
                             }
                         </div>
-                        <div className={style.badges} style={(user?.status?.emote || user?.status?.text) ? { marginTop: 8 } : { marginTop: width > 540 ? 14 : 4 }}>
+                        <div className={style.badges} style={(user?.status?.emote || user?.status?.text) ? { marginTop: 8 } : { marginTop: width > 540 ? 14 : 4 }}><br /><br />
                             <button className={style.badge} title='https://austinispog.tk/youtube' onClick={() => window.open('https://austinispog.tk/youtube')}> <HiOutlineFire style={{ height: 22, width: 22, marginRight: 4 }} /> YouTuber </button>
                             <button className={style.badge} title='https://austinispog.tk/github' onClick={() => window.open('https://austinispog.tk/github')}> <HiOutlineCode style={{ height: 22, width: 22, marginRight: 4 }} /> Developer </button>
                         </div>
