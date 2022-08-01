@@ -45,7 +45,7 @@ export default function Homepage({ user, cards, error }) {
                                 I'm <strong>Austin</strong>, a cool <strong>person</strong> who lives in <strong>California</strong>.
                                 I'm a small content creator & streamer and community moderator on Discord.
                                 I taught myself many different things about moderation, Minecraft, and <strong>more</strong>!
-                                Learn more about what I do and some of my projects.<br />And, yes, limeade is an actual drink.
+                                Learn more about what I do and some of my projects.<br /><br /><br />And, yes, limeade is an actual drink.
                             </div>
                             <br />
                             <strong style={{ fontSize: 27 }}>🐦 Social Medias</strong><br />
