@@ -57,7 +57,7 @@ export default function Homepage({ user, cards, error }) {
                                 •<button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://austinispog.tk/twitter')}>Twitter</button> <br />
                                 •<button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://austinispog.tk/twitch')}>Twitch</button> <br />
                                 •<button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://austinispog.tk/tiktok')}>TikTok</button> <br />
-                              <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://austinispog.tk/spotify')}><img src="/spotify-brands.svg" style={{ width: 10, height: 30 }} />NotMrAustin</button> <br />
+                              <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://austinispog.tk/spotify')}><img src="/spotify-brands.svg" style={{ width: 50, height: 50 }} />NotMrAustin</button> <br />
                               •<button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://austinispog.tk/steam')}>Steam</button> <br />
                             </div>
                             <br />
