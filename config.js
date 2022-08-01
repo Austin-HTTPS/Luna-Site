@@ -15,7 +15,7 @@ module.exports = {
                 color: "#ED4245"
             },
             emote: "959151720846487653.webp",
-            text: "when life gives you lime, make limenade"
+            text: "when life gives you lime, make limeade"
         },
         activities: [],
         createdTimestamp: 1615924806867,
