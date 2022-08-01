@@ -58,7 +58,7 @@ export default function Homepage({ user, cards, error }) {
                                 <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://austinispog.tk/twitch')}><img src="/twitch-brands.svg" style={{ width: 18, height: 19 }} />NotMrAustin</button> <br />
                                 <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://austinispog.tk/tiktok')}><img src="/tiktok-brands.svg" style={{ width: 18, height: 19 }} />@NotMrAustin</button>    
                               <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://austinispog.tk/spotify')}><img src="/spotify-brands.svg" style={{ width: 18, height: 19 }} />notmraustin</button> <br />
-                              <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://austinispog.tk/reddit')}><img src="/reddit-brands.svg" style={{ width: 18, height: 19 }} />u/NotMrAustin</button>    
+                              <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://austinispog.tk/reddit')}><img src="/reddit-brands.svg" style={{ width: 18, height: 19 }} />u/NotMrAustin</button>&nbsp; &nbsp; &nbsp; &nbsp;
                               <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://austinispog.tk/patreon')}><img src="/patreon-brands.svg" style={{ width: 18, height: 19 }} />donate</button> <br />
                             </div>
                             <br />
