@@ -1,5 +1,5 @@
 - make API work
 - make homepage avaible offline
-- make spotify currentlylistening.js embed working
 - have the API hosted on vercel without token leaking (use testing bot)
 - added images/emojis into bio
+- make project/job images the same size (try 500x500px)
