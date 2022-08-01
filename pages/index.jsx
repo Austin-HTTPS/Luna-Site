@@ -33,7 +33,6 @@ export default function Homepage({ user, cards, error }) {
                                 : <></>
                             }
                         </div>
-                      <br /><br /><br /><br />
                         <div className={style.badges} style={(user?.status?.emote || user?.status?.text) ? { marginTop: 8 } : { marginTop: width > 540 ? 14 : 4 }}>
                             <button className={style.badge} title='https://austinispog.tk/youtube' onClick={() => window.open('https://austinispog.tk/youtube')}> <HiVideoCamera style={{ height: 22, width: 22, marginRight: 4 }} /> YouTuber </button>
                             <button className={style.badge} title='https://austinispog.tk/github' onClick={() => window.open('https://austinispog.tk/github')}> <HiOutlineCode style={{ height: 22, width: 22, marginRight: 4 }} /> Developer </button>
