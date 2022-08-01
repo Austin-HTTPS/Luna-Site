@@ -2,5 +2,4 @@
 - make homepage avaible offline
 - make spotify currentlylistening.js embed working
 - have the API hosted on vercel without token leaking (use testing bot)
-- have status and badges spaced out on mobile
 - added images/emojis into bio
