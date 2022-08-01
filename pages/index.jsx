@@ -50,15 +50,15 @@ export default function Homepage({ user, cards, error }) {
                             <br />
                             <strong style={{ fontSize: 27 }}>Social Medias</strong><br />
                             <div style={{ marginTop: 8, marginLeft: 12 }}>
-                                •<button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://austinispog.tk/discord')}>MrAustin#3915</button> <br />
-                                •<button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://austinispog.tk/youtube')}>/notmraustin</button> <br />
-                                •<button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://austinispog.tk/instagram')}>@NotMrAustin</button> <br />
-                                •<button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://austinispog.tk/github')}>Austin-HTTPS</button> <br />
-                                •<button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://austinispog.tk/twitter')}>@NotmrAustin</button> <br />
-                                •<button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://austinispog.tk/twitch')}>NotMrAustin</button> <br />
-                                •<button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://austinispog.tk/tiktok')}>@NotMrAustin</button> <br />
+                                •<button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://austinispog.tk/discord')}><img src="/discord-brands.svg" style={{ width: 18, height: 19 }} />MrAustin#3915</button> <br />
+                                •<button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://austinispog.tk/youtube')}><img src="/youtube-brands.svg" style={{ width: 18, height: 19 }} />/notmraustin</button> <br />
+                                •<button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://austinispog.tk/instagram')}><img src="/instagram-brands.svg" style={{ width: 18, height: 19 }} />@NotMrAustin</button> <br />
+                                •<button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://austinispog.tk/github')}><img src="/github-brands.svg" style={{ width: 18, height: 19 }} />Austin-HTTPS</button> <br />
+                                •<button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://austinispog.tk/twitter')}><img src="/twitter-brands.svg" style={{ width: 18, height: 19 }} />@NotmrAustin</button> <br />
+                                •<button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://austinispog.tk/twitch')}><img src="/twitch-brands.svg" style={{ width: 18, height: 19 }} />NotMrAustin</button> <br />
+                                •<button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://austinispog.tk/tiktok')}><img src="/tiktok-brands.svg" style={{ width: 18, height: 19 }} />@NotMrAustin</button> <br />
                               <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://austinispog.tk/spotify')}><img src="/spotify-brands.svg" style={{ width: 18, height: 19 }} />NotMrAustin</button> <br />
-                              •<button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://austinispog.tk/steam')}>NotMrAustin</button> <br />
+                              •<button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://austinispog.tk/steam')}><img src="/steam-brands.svg" style={{ width: 18, height: 19 }} />NotMrAustin</button> <br />
                             </div>
                             <br />
                             <strong style={{ fontSize: 27 }}>🍧 Contact</strong><br />
