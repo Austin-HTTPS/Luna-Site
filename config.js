@@ -54,9 +54,9 @@ module.exports = {
         url: 'https://mc.austinispog.tk',
         position: `Founder/Owner`
     }, {
-        name: 'Minecraft Help',
+        name: 'The Quick Minecraft Wiki',
         icon: 'trial-hero-image-golem.png',
-        description: 'The place to find helpful rescoures, info, recipes, and much more for Minecraft! [IN DEVELOPMENT]',
+        description: 'The place to find helpful rescoures, info, recipes, and much more for Minecraft very quickly! [IN DEVELOPMENT]',
         url: 'https://mchelp.austinispog.tk',
         position: `Founder/Owner`
     }],
