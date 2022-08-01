@@ -28,12 +28,12 @@ export default function Homepage({ user, cards, error }) {
                             {(user?.status?.emote || user?.status?.text) ?
                                 <div style={{ display: 'felx' }}>
                                     {user?.status?.emote ? <img src={user?.status?.emote} style={{ width: 24, borderRadius: 3, marginTop: 4, marginRight: 3 }} draggable={false} /> : <></>}
-                                    <text style={{ position: 'relative', top: -5, left: 4, color: '#CCCCCC', fontSize: 20 }}>{user?.status?.text ? user?.status?.text : ``}</text>
+                                    <text style={{ position: 'relative', top: -5, left: 4, color: '#CCCCCC', fontSize: 20 }}>{user?.status?.text ? user?.status?.text : ``}</text> <br />
                                 </div>
                                 : <></>
                             }
                         </div>
-                        <div className={style.badges} style={(user?.status?.emote || user?.status?.text) ? { marginTop: 8 } : { marginTop: width > 540 ? 14 : 4 }}> <br />
+                        <div className={style.badges} style={(user?.status?.emote || user?.status?.text) ? { marginTop: 8 } : { marginTop: width > 540 ? 14 : 4 }}>
                             <button className={style.badge} title='https://austinispog.tk/youtube' onClick={() => window.open('https://austinispog.tk/youtube')}> <HiOutlineFire style={{ height: 22, width: 22, marginRight: 4 }} /> YouTuber </button>
                             <button className={style.badge} title='https://austinispog.tk/github' onClick={() => window.open('https://austinispog.tk/github')}> <HiOutlineCode style={{ height: 22, width: 22, marginRight: 4 }} /> Developer </button>
                         </div>
@@ -48,15 +48,15 @@ export default function Homepage({ user, cards, error }) {
                                 Learn more about what I do and some of my projects.
                             </div>
                             <br />
-                            <strong style={{ fontSize: 27 }}>Social Medias</strong><br />
+                            <strong style={{ fontSize: 27 }}>🐦 Social Medias</strong><br />
                             <div style={{ marginTop: 8, marginLeft: 12 }}>
-                                <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://austinispog.tk/discord')}><img src="/discord-brands.svg" style={{ width: 18, height: 19 }} />MrAustin#3915</button>    
+                                <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://austinispog.tk/discord')}><img src="/discord-brands.svg" style={{ width: 18, height: 19 }} />MrAustin#3915</button>&nbsp; &nbsp; &nbsp; &nbsp;
                                 <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://austinispog.tk/youtube')}><img src="/youtube-brands.svg" style={{ width: 18, height: 19 }} />/notmraustin</button> <br />
-                                <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://austinispog.tk/instagram')}><img src="/instagram-brands.svg" style={{ width: 18, height: 19 }} />@NotMrAustin</button>    
+                                <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://austinispog.tk/instagram')}><img src="/instagram-brands.svg" style={{ width: 18, height: 19 }} />@NotMrAustin</button>&nbsp; &nbsp; &nbsp; &nbsp;
                                 <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://austinispog.tk/github')}><img src="/github-brands.svg" style={{ width: 18, height: 19 }} />Austin-HTTPS</button> <br />
-                                <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://austinispog.tk/twitter')}><img src="/twitter-brands.svg" style={{ width: 18, height: 19 }} />@NotMrAustin</button>    
+                                <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://austinispog.tk/twitter')}><img src="/twitter-brands.svg" style={{ width: 18, height: 19 }} />@NotMrAustin</button>&nbsp; &nbsp; &nbsp; &nbsp;
                                 <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://austinispog.tk/twitch')}><img src="/twitch-brands.svg" style={{ width: 18, height: 19 }} />NotMrAustin</button> <br />
-                                <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://austinispog.tk/tiktok')}><img src="/tiktok-brands.svg" style={{ width: 18, height: 19 }} />@NotMrAustin</button>    
+                                <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://austinispog.tk/tiktok')}><img src="/tiktok-brands.svg" style={{ width: 18, height: 19 }} />@NotMrAustin</button>&nbsp; &nbsp; &nbsp; &nbsp;
                               <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://austinispog.tk/spotify')}><img src="/spotify-brands.svg" style={{ width: 18, height: 19 }} />notmraustin</button> <br />
                               <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://austinispog.tk/reddit')}><img src="/reddit-brands.svg" style={{ width: 18, height: 19 }} />u/NotMrAustin</button>&nbsp; &nbsp; &nbsp; &nbsp;
                               <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://austinispog.tk/patreon')}><img src="/patreon-brands.svg" style={{ width: 18, height: 19 }} />donate</button> <br />
