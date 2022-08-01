@@ -14,8 +14,8 @@ module.exports = {
                 text: "dnd",
                 color: "#ED4245"
             },
-            emote: "952692335643332630.webp",
-            text: "being a chad gamer"
+            emote: "959151720846487653.webp",
+            text: "when life gives you lime, make limenade"
         },
         activities: [],
         createdTimestamp: 1615924806867,
