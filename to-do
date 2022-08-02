@@ -1,6 +1,4 @@
-- make API work
 - make homepage (and all the redirect pages) avaible offline
-- have the API hosted on vercel without token leaking (use testing bot)
 - make project/job images the same size (try 500x500px)
 - make a xbox, playstation, paypal, epicgames page
 - make all the redirects have a line of text that puts the link there
