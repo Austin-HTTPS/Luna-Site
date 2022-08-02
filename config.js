@@ -1,6 +1,6 @@
 module.exports = {
     api: {
-        url: 'https://whois.austinispog.repl.co',
+        url: 'https://whois.austinispog.tk',
         path: '/'
     },
     user: {
@@ -8,7 +8,7 @@ module.exports = {
         username: "MrAustin",
         discriminator: "3915",
         nickname: "Austin",
-        nickavatar: "verycoolpfp22.png",
+        nickavatar: "giphy-1.gif",
         status: {
             state: {
                 text: "dnd",
