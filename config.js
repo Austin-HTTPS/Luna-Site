@@ -19,8 +19,8 @@ module.exports = {
         },
         activities: [],
         createdTimestamp: 1615924806867,
-        avatar: "verycoolpfp22.png",
-        banner: "illustration-night-mountains-stars-wallpaper_3500-1969-1539560122.png",
+        avatar: "giphy-1.gif",
+        banner: "iSWz1f.gif",
         accentColor: "#ce3760"
     },
     cards: [{
