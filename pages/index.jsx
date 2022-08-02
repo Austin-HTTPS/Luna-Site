@@ -43,14 +43,12 @@ export default function Homepage({ user, cards, error }) {
                             <strong style={{ fontSize: 27 }}>👋 About me</strong> <br />
                             <div style={{ marginTop: 8, marginLeft: 12 }}>
                                 I'm <strong>Austin</strong>, a cool <strong>person</strong> who lives in <strong>California</strong>.
-                                I'm a small content creator and community moderator on Discord.
-                                I have taught myself many different things about moderation, Minecraft, and <strong>more</strong>!
+                                I'm a small content creator and community moderator on Discord <img src="/discord-brands.svg" style={{ width: 18, height: 19 }} /> .
+                                I have taught myself many different things about moderation, Minecraft <img src="/4367d3d3cbae6de3b20c6bf7584c40e7.jpeg" style={{ width: 18, height: 19 }} />, and <strong>more</strong>!
                                 <br /><br />
-                                I joined Discord on July 12, 2019, and YouTube on  December 5, 2019; however, I didn't really start exploring the internet until <strong>early 2020</strong>. Since then, I've been active on Discord and sometimes active on YouTube. <br /><br />
-                                In March of 2020, my life changed forever, I got <strong>Minecraft</strong> Bedrock Edition. I finally discovered a game I truly loved. Ever since then, I've been active on <strong>Minecraft</strong>.  <br /><br />
-                                Fast forwarding to <strong>August of 2021</strong>, I got the game I've been wanting for years, Minecraft <strong>Java Edition</strong>. Because of Minecraft, I have been able to meet so many new people, have great memories, achieve staff poisitions I would never think I could achieve, and entertaining content.  <br /><br />
-                                On another note, since mid <strong>2020</strong>, I really started getting into moderation on Discord. Since then, I've meet tons of new friends, bots, servers, resources, and more! <br /><br />
-                                I wouldn't be where I am today without <strong>Discord</strong> and <strong>Minecraft</strong>.
+                                I joined Discord on July 12, 2019, and YouTube <img src="/youtube-brands.svg" style={{ width: 18, height: 19 }} /> on  December 5, 2019; however, I didn't really start exploring the internet until <strong>early 2020</strong>. Since then, I've been active on Discord and sometimes active on YouTube. <br /><br />
+                                Ever since early 2020, I've been busy moderating <strong>multiple</strong> Discord & Minecraft servers, making YouTube videos, and having fun! <br /> <br />
+                                Because of Discord & Minecraft, I have meet many <strong>awesome</strong> and kind people. 😊<br />
                             </div>
                             <br />
                             <strong style={{ fontSize: 27 }}>🐦 Social Medias</strong><br />
