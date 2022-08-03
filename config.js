@@ -64,9 +64,9 @@ module.exports = {
         icon: `9692-monkey.gif`,
         name: `Austin`,
         buttons: {
-            Discord: `/discord`,
-            GitHub: `/github`,
-            Twitter: `/twitter`
+            Discord: `https://discord.com/invite/a3av4pZMx2`,
+            GitHub: `https://github.com/Austin-HTTPS`,
+            Twitter: `https://twitter.com/NotMrAustin`
         }
     },
     metadata: {
