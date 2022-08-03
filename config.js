@@ -24,23 +24,23 @@ module.exports = {
         accentColor: "#ce3760"
     },
     cards: [{
-        name: 'Halos Hut',
-        icon: 'cb9c106df86b493455a1cce977d2e867.webp',
-        description: 'Halos Hut, a friendly Discord and Minecraft server.',
-        url: 'https://halostv.com/',
-        position: `MC Server Jr. Staff`,
-    }, {
         name: 'MC Bedrock Chillzone',
         icon: 'a_b33fc7d48d66fc39ccee397d752426fd.gif',
         description: 'MC Bedrock Chillzone, a relaxing server created to bring the Minecraft Bedrock community together! We were created when Neb, a Minecraft Bedrock Edition player, saw how much hate Bedrock Edition players were getting in the community and wondered what he could do. Over 2 years later, MCBC is growing daily to help people find friends and play Minecraft.',
         url: 'https://discord.gg/VxXNywGx8U',
         position: `Jr. Staff`,
     }, {
-        name: 'Service Worker',
-        icon: 'https://www.keycdn.com/img/blog/service-workers.png',
-        description: 'A website to tell you how to make your website available offline.',
-        url: 'https://service-worker.austinispog.tk/',
-        position: `Founder/Owner`,
+        name: 'Halos Hut',
+        icon: 'cb9c106df86b493455a1cce977d2e867.webp',
+        description: 'Halos Hut, a friendly Discord and Minecraft server.',
+        url: 'https://halostv.com/',
+        position: `MC Server Jr. Staff`,
+    }, {
+        name: 'OasisSMP',
+        icon: 'cd96e38801626df%20(1).png',
+        description: 'The OasisSMP is a Minecraft SMP server for content creators and streamers (big and small)! On this SMP, when you kill someone, you receive a permanent good effect, and the person you killed will get a permanent bad effect, and vice versa.',
+        url: 'https://discord.gg/sgeFUGm6',
+        position: `YouTuber`,
     }, {
         name: 'WarzoneMC',
         icon: 'a_e6e56bad26599c76ab7288c60c4d4eb3.gif',
@@ -52,13 +52,13 @@ module.exports = {
         icon: 'server-icon.png',
         description: 'A fun SMP with a ton of plugins to make the game look, sound, and feel better!',
         url: 'https://mc.austinispog.tk',
-        position: `Founder/Owner`
+        position: `Owner`
     }, {
         name: 'The Quick Minecraft Wiki',
         icon: 'trial-hero-image-golem.png',
-        description: 'The place to find helpful rescoures, info, recipes, and much more for Minecraft very quickly! [IN DEVELOPMENT]',
+        description: 'The place to find helpful rescoures, info, recipes, and much more for Minecraft very quickly!',
         url: 'https://mchelp.austinispog.tk',
-        position: `Founder/Owner`
+        position: `Founder`
     }],
     header: {
         icon: `5f459e3acca1158310a937e73203f8a1.png`,
