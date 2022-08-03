@@ -2,7 +2,7 @@ import config from '../config';
 import style from '../styles/Home.module.css';
 import { useState, useEffect } from 'react';
 
-import { HiOutlineNewspaper, HiOutlineLink, HiX, HiOutlineExclamation, HiOutlineFolder, HiOutlineMenuAlt2, HiVideoCamera, HiOutlineShieldCheck, HiOutlineCode } from 'react-icons/hi';
+import { HiOutlineNewspaper, HiOutlineLink, HiX, HiOutlineExclamation, HiOutlineFolder, HiOutlineMenuAlt2, HiClock, HiVideoCamera, HiOutlineShieldCheck, HiOutlineCode } from 'react-icons/hi';
 export default function Homepage({ user, cards, error }) {
     const [width, setWidth] = useState()
     useEffect(() => {
@@ -48,7 +48,33 @@ export default function Homepage({ user, cards, error }) {
                                 <br /><br />
                                 I joined Discord on July 12, 2019, and YouTube <img src="/youtube-brands.svg" style={{ width: 18, height: 19 }} /> on  December 5, 2019; however, I didn't really start exploring the internet until <strong>early 2020</strong>. Since then, I've been active on Discord and sometimes active on YouTube. <br /><br />
                                 Ever since early 2020, I've been busy moderating <strong>multiple</strong> Discord & Minecraft servers, making YouTube videos, and having fun! <br /> <br />
-                                Because of Discord & Minecraft, I have meet many <strong>awesome</strong> and kind people. 😊<br />
+                                Because of Discord & Minecraft, I have meet many <strong>awesome</strong> and kind people. 😊<br /><br /><br />
+                              <div class="time">
+          <HiClock style={{ height: 22, width: 22, marginRight: 4 }} />
+        <span class="date-time" id="date-time"></span>
+                              </div>
+                            <script>
+  dateTime();
+
+  function dateTime() {
+    const d = new Date();
+    const date = d.toLocaleDateString("en-US", {
+      timeZone: "America/Los_Angeles",
+      year: "numeric",
+      month: "long",
+      day: "numeric",
+    });
+    const time = d.toLocaleTimeString("en-US", {
+      timeZone: "America/Los_Angeles",
+      hour: "numeric",
+      minute: "numeric",
+      second: "numeric",
+    });
+    document.getElementById("date-time").innerHTML = `${date} • ${time}`;
+  }
+
+  setInterval(dateTime, 1000);
+</script>
                             </div>
                             <br />
                             <strong style={{ fontSize: 27 }}>🐦 Social Medias</strong><br />
