@@ -1,6 +1,6 @@
 module.exports = {
     api: {
-        url: 'https://whois-alpha.vercel.app',
+        url: 'https://whois.austinispog.tk',
         path: '/'
     },
     user: {
