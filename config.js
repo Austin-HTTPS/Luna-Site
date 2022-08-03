@@ -61,7 +61,7 @@ module.exports = {
         position: `Founder`
     }],
     header: {
-        icon: `5f459e3acca1158310a937e73203f8a1.png`,
+        icon: `9692-monkey.gif`,
         name: `Austin`,
         buttons: {
             Discord: `/discord`,

@@ -38,9 +38,9 @@ li {
     margin-top: 0.1rem;
     letter-spacing: 0.15rem;
     text-shadow: -1.5px 1.5px rgb(209, 56, 83),
-        -3px 3px rgb(209, 90, 151),
-        -4.5px 4.5px rgb(108, 67, 212),
-        -6px 6px rgb(55, 142, 212);
+        -3px 3px rgb(128, 255, 0),
+        -4.5px 4.5px rgb(72, 0, 255),
+        -6px 6px rgb(0, 213, 255);
 }
 
 .header-ico {
