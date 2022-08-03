@@ -34,7 +34,7 @@ module.exports = {
         icon: 'cb9c106df86b493455a1cce977d2e867.webp',
         description: 'Halos Hut, a friendly Discord and Minecraft server.',
         url: 'https://halostv.com/',
-        position: `MC Server Jr. Staff`,
+        position: `MC Jr. Staff`,
     }, {
         name: 'OasisSMP',
         icon: 'cd96e38801626df%20(1).png',

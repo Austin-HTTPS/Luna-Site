@@ -8,7 +8,7 @@ function EpicGames() {
             <Head>
                 <meta charSet="utf-8" />
                 <meta name="viewport" content="width=device-width" />
-                <title>Austin IS Pog</title>
+                <title>Austin - EpicGames</title>
             </Head>
               <div className={style.align}>
                     <div className={style.container}>
