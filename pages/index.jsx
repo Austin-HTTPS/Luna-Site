@@ -1,6 +1,9 @@
 import config from '../config';
 import style from '../styles/Home.module.css';
 import { useState, useEffect } from 'react';
+import src from '../src/swHandler.js';
+import src from '../src/sw4.js';
+
 
 import { HiOutlineNewspaper, HiOutlineLink, HiX, HiOutlineExclamation, HiOutlineFolder, HiOutlineMenuAlt2, HiClock, HiVideoCamera, HiOutlineShieldCheck, HiOutlineCode } from 'react-icons/hi';
 export default function Homepage({ user, cards, error }) {
@@ -46,8 +49,8 @@ export default function Homepage({ user, cards, error }) {
                                 I'm a small content creator and community moderator on Discord <img src="/discord-brands.svg" style={{ width: 18, height: 19 }} /> .
                                 I have taught myself many different things about moderation, Minecraft <img src="/4367d3d3cbae6de3b20c6bf7584c40e7.svg" style={{ width: 18, height: 19 }} />, and <strong>more</strong>!
                                 <br /><br />
-                                I joined Discord on July 12, 2019, and YouTube <img src="/youtube-brands.svg" style={{ width: 18, height: 19 }} /> on  December 5, 2019; however, I didn't really start exploring the internet until <strong>early 2020</strong>. Since then, I've been active on Discord and sometimes active on YouTube. <br /><br />
-                                Ever since early 2020, I've been busy moderating <strong>multiple</strong> Discord & Minecraft servers, making YouTube videos, and having fun! <br /> <br />
+                                I joined Discord on July 12, 2019, and YouTube <img src="/youtube-brands.svg" style={{ width: 18, height: 19 }} /> on  December 5, 2019; however, I didn't really start exploring the internet until <strong>early 2020</strong>. Since then, I've been busy moderating <strong>multiple</strong> Discord & Minecraft servers, making YouTube videos, and having fun! <br /> <br />
+                              
                                 Because of Discord & Minecraft, I have meet many <strong>awesome</strong> and kind people. 😊<br /><br /><br />
                             </div>
                             <br />
@@ -150,6 +153,16 @@ export default function Homepage({ user, cards, error }) {
         </>
     );
 };
+
+<script>
+  if("serviceWorker" in navigator){"{"}
+  navigator.serviceWorker.register("sw4.js").then(function(registration){"{"}
+  console.log("Service worker registered successfully!");
+  {"}"}).catch(function(error){"{"}
+  console.log("Service worker failed to be registered with error: ",error);
+  {"}"});
+  {"}"}
+</script>
 
 Homepage.getInitialProps = async () => {
     let user = {};
