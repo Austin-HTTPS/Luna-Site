@@ -1,8 +1,8 @@
 import config from '../config';
 import style from '../styles/Home.module.css';
 import { useState, useEffect } from 'react';
-import src from '../src/swHandler.js';
-import src from '../src/sw4.js';
+import script from '../src/swHandler.js';
+import script from '../src/sw4.js';
 
 
 import { HiOutlineNewspaper, HiOutlineLink, HiX, HiOutlineExclamation, HiOutlineFolder, HiOutlineMenuAlt2, HiClock, HiVideoCamera, HiOutlineShieldCheck, HiOutlineCode } from 'react-icons/hi';
