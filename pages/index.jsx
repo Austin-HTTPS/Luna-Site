@@ -1,8 +1,6 @@
 import config from '../config';
 import style from '../styles/Home.module.css';
 import { useState, useEffect } from 'react';
-import script from '../src/swHandler.js';
-import script from '../src/sw4.js';
 
 
 import { HiOutlineNewspaper, HiOutlineLink, HiX, HiOutlineExclamation, HiOutlineFolder, HiOutlineMenuAlt2, HiClock, HiVideoCamera, HiOutlineShieldCheck, HiOutlineCode } from 'react-icons/hi';
@@ -153,16 +151,6 @@ export default function Homepage({ user, cards, error }) {
         </>
     );
 };
-
-<script>
-  if("serviceWorker" in navigator){"{"}
-  navigator.serviceWorker.register("sw4.js").then(function(registration){"{"}
-  console.log("Service worker registered successfully!");
-  {"}"}).catch(function(error){"{"}
-  console.log("Service worker failed to be registered with error: ",error);
-  {"}"});
-  {"}"}
-</script>
 
 Homepage.getInitialProps = async () => {
     let user = {};
