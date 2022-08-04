@@ -63,6 +63,32 @@ export default function Homepage({ user, cards, error }) {
                               <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://austinispog.tk/spotify')}><img src="/spotify-brands.svg" style={{ width: 18, height: 19 }} /> notmraustin</button> <br />
                               <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://austinispog.tk/reddit')}><img src="/reddit-brands.svg" style={{ width: 18, height: 19 }} /> u/NotMrAustin</button>&nbsp; &nbsp; &nbsp; &nbsp;
                               <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://austinispog.tk/patreon')}><img src="/patreon-brands.svg" style={{ width: 18, height: 19 }} /> notmraustin</button> <br />
+                              <div class="time">
+          <HiClock style={{ height: 22, width: 22, marginRight: 4 }} />
+        <span class="date-time" id="date-time"></span>
+                              </div>
+                            <script>
+  dateTime();
+
+  function dateTime() {
+    const d = new Date();
+    const date = d.toLocaleDateString("en-US", {
+      timeZone: "America/Los_Angeles",
+      year: "numeric",
+      month: "long",
+      day: "numeric",
+    });
+    const time = d.toLocaleTimeString("en-US", {
+      timeZone: "America/Los_Angeles",
+      hour: "numeric",
+      minute: "numeric",
+      second: "numeric",
+    });
+    document.getElementById("date-time").innerHTML = `${date} • ${time}`;
+  }
+
+  setInterval(dateTime, 1000);
+</script>
                             </div>
                             <br />
                             <strong style={{ fontSize: 27 }}>🍧 Contact</strong><br />
