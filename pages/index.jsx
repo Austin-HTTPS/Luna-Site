@@ -2,7 +2,6 @@ import config from '../config';
 import style from '../styles/Home.module.css';
 import { useState, useEffect } from 'react';
 
-
 import { HiOutlineNewspaper, HiOutlineLink, HiX, HiOutlineExclamation, HiOutlineFolder, HiOutlineMenuAlt2, HiClock, HiVideoCamera, HiOutlineShieldCheck, HiOutlineCode } from 'react-icons/hi';
 export default function Homepage({ user, cards, error }) {
     const [width, setWidth] = useState()
@@ -64,11 +63,6 @@ export default function Homepage({ user, cards, error }) {
                               <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://austinispog.tk/spotify')}><img src="/spotify-brands.svg" style={{ width: 18, height: 19 }} /> notmraustin</button> <br />
                               <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://austinispog.tk/reddit')}><img src="/reddit-brands.svg" style={{ width: 18, height: 19 }} /> u/NotMrAustin</button>&nbsp; &nbsp; &nbsp; &nbsp;
                               <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://austinispog.tk/patreon')}><img src="/patreon-brands.svg" style={{ width: 18, height: 19 }} /> notmraustin</button> <br />
-                                  <div class="time">
-          <HiClock style={{ height: 22, width: 22, marginRight: 4 }} />
-        <span class="date-time" id="date-time"></span>
-                                  </div>
-                            <script></script>
                             </div>
                             <br />
                             <strong style={{ fontSize: 27 }}>🍧 Contact</strong><br />

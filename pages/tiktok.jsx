@@ -1,7 +1,7 @@
 import React from 'react';
 import Head from 'next/head';
 
-function Tiktok() {
+function TikTok() {
     return (
         <div>
             <Head>
