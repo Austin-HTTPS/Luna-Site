@@ -1,5 +1,4 @@
 import React from 'react';
-import style from '../styles/Error.module.css';
 import Head from 'next/head';
 
 function Example() {
@@ -15,4 +14,4 @@ function Example() {
     );
 }
 
-export default Example;
+export default Example; 
