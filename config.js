@@ -48,6 +48,12 @@ module.exports = {
         url: 'https://warzone.network',
         position: `Former Jr. Mod`,
     }, {
+        name: 'WarzoneMC',
+        icon: 'a_e6e56bad26599c76ab7288c60c4d4eb3.gif',
+        description: 'Warzone is a team organized gamemode where your goal is to follow the objective of the round while stopping the other team from achieving so too.',
+        url: 'https://warzone.network',
+        position: `Former Jr. Mod`,
+    }, {
         name: 'Austins Oasis',
         icon: 'server-icon.png',
         description: 'A fun SMP with a ton of plugins to make the game look, sound, and feel better!',
