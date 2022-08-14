@@ -48,11 +48,11 @@ module.exports = {
         url: 'https://warzone.network',
         position: `Former Jr. Mod`,
     }, {
-        name: 'WarzoneMC',
-        icon: 'a_e6e56bad26599c76ab7288c60c4d4eb3.gif',
-        description: 'Warzone is a team organized gamemode where your goal is to follow the objective of the round while stopping the other team from achieving so too.',
-        url: 'https://warzone.network',
-        position: `Former Jr. Mod`,
+        name: 'The Beehive',
+        icon: '979c5ce915e63338054fe1ffc647844d.webp',
+        description: 'The Beehive is a hub for all Minecrafters to come together and socialize in a safe corner of the internet. In order to fit the description of the server here, I had to shorten it.',
+        url: 'https://discord.gg/8M26wxkRPj',
+        position: `Helper`,
     }, {
         name: 'Austins Oasis',
         icon: 'server-icon.png',
