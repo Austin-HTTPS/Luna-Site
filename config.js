@@ -28,7 +28,7 @@ module.exports = {
         icon: 'a_b33fc7d48d66fc39ccee397d752426fd.gif',
         description: 'MC Bedrock Chillzone, a relaxing server created to bring the Minecraft Bedrock community together! We were created when Neb, a Minecraft Bedrock Edition player, saw how much hate Bedrock Edition players were getting in the community and wondered what he could do. Over 2 years later, MCBC is growing daily to help people find friends and play Minecraft.',
         url: 'https://discord.gg/VxXNywGx8U',
-        position: `Jr. Staff`,
+        position: `Moderator`,
     }, {
         name: 'Halos Hut',
         icon: 'cb9c106df86b493455a1cce977d2e867.webp',
