@@ -56,9 +56,8 @@ export default function Homepage({ user, cards, error }) {
                               </div>
                             <script>
   dateTime();
-const d = new Date();
+  const d = new Date();
   function dateTime() {
-    const d = new Date();
     const date = d.toLocaleDateString("en-US", {
       timeZone: "America/Los_Angeles",
       year: "numeric",
