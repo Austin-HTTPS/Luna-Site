@@ -26,7 +26,7 @@ module.exports = {
     cards: [{
         name: 'MC Bedrock Chillzone',
         icon: 'a_b33fc7d48d66fc39ccee397d752426fd.gif',
-        description: 'MC Bedrock Chillzone, a relaxing server created to bring the Minecraft Bedrock community together! We were created when Neb, a Minecraft Bedrock Edition player, saw how much hate Bedrock Edition players were getting in the community and wondered what he could do. Over 2 years later, MCBC is growing daily to help people find friends and play Minecraft.',
+        description: 'MC Bedrock Chillzone, a relaxing server created to bring the Minecraft Bedrock community together!',
         url: 'https://discord.gg/VxXNywGx8U',
         position: `Moderator`,
     }, {
@@ -38,7 +38,7 @@ module.exports = {
     }, {
         name: 'OasisSMP',
         icon: 'cd96e38801626df%20(1).png',
-        description: 'The OasisSMP is a Minecraft SMP server for content creators and streamers (big and small)! On this SMP, when you kill someone, you receive a permanent good effect, and the person you killed will get a permanent bad effect, and vice versa.',
+        description: 'The OasisSMP is a Minecraft SMP server for content creators and streamers! On this SMP, when you kill someone, you receive a permanent good effect, and the person you killed will get a permanent bad effect, and vice versa.',
         url: 'https://discord.gg/sgeFUGm6',
         position: `YouTuber`,
     }, {
@@ -50,7 +50,7 @@ module.exports = {
     }, {
         name: 'The Beehive',
         icon: '979c5ce915e63338054fe1ffc647844d.webp',
-        description: 'The Beehive is a hub for all Minecrafters to come together and socialize in a safe corner of the internet. In order to fit the description of the server here, I had to shorten it.',
+        description: 'The Beehive is a hub for all Minecrafters to come together and socialize in a safe corner of the internet.',
         url: 'https://discord.gg/8M26wxkRPj',
         position: `Helper`,
     }, {
