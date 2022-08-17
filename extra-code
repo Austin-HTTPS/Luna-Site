@@ -4,7 +4,7 @@
                               </div>
                             <script>
   dateTime();
-
+  const d = new Date(); <-- maybe!
   function dateTime() {
     const d = new Date();
     const date = d.toLocaleDateString("en-US", {

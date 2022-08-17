@@ -49,32 +49,6 @@ export default function Homepage({ user, cards, error }) {
                                 I joined Discord on July 12, 2019, and YouTube <img src="/youtube-brands.svg" style={{ width: 18, height: 19 }} /> on  December 5, 2019; however, I didn't really start exploring the internet until <strong>early 2020</strong>. Since then, I've been busy moderating <strong>multiple</strong> Discord & Minecraft servers, making YouTube videos, and having fun! <br /> <br />
                               
                                 Because of Discord & Minecraft, I have meet many <strong>awesome</strong> and kind people. 😊<br /><br /><br />
-
-                                                            <div class="time">
-          <HiClock style={{ height: 22, width: 22, marginRight: 4 }} />
-        <span class="date-time" id="date-time"></span>
-                              </div>
-                            <script>
-  dateTime();
-  const d = new Date();
-  function dateTime() {
-    const date = d.toLocaleDateString("en-US", {
-      timeZone: "America/Los_Angeles",
-      year: "numeric",
-      month: "long",
-      day: "numeric",
-    });
-    const time = d.toLocaleTimeString("en-US", {
-      timeZone: "America/Los_Angeles",
-      hour: "numeric",
-      minute: "numeric",
-      second: "numeric",
-    });
-    document.getElementById("date-time").innerHTML = `${date} • ${time}`;
-  }
-
-  setInterval(dateTime, 1000);
-</script>< br/><br /> <br/>
                             </div>
                             <br />
                             <strong style={{ fontSize: 27 }}>🐦 Social Medias</strong><br />
