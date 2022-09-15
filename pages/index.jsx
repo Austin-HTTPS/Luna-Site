@@ -48,7 +48,8 @@ export default function Homepage({ user, cards, error }) {
                                 <br /><br />
                                 I joined Discord on July 12, 2019, and YouTube <img src="/youtube-brands.svg" style={{ width: 18, height: 19 }} /> on  December 5, 2019; however, I didn't really start exploring the internet until <strong>early 2020</strong>. Since then, I've been busy moderating <strong>multiple</strong> Discord & Minecraft servers, making YouTube videos, and having fun! <br /> <br />
                               
-                                Because of Discord & Minecraft, I have meet many <strong>awesome</strong> and kind people. 😊<br /><br /><br />
+                                Because of Discord & Minecraft, I have meet many <strong>awesome</strong> and kind people. 😊<br /><br />
+                              New paragraphs coming soon! <br /><br /><br />
                             </div>
                             <br />
                             <strong style={{ fontSize: 27 }}>🐦 Social Medias</strong><br />
