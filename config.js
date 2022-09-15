@@ -8,7 +8,7 @@ module.exports = {
         username: "MrAustin",
         discriminator: "3915",
         nickname: "Austin",
-        nickavatar: "giphy-1.gif",
+        nickavatar: "pfp.webp",
         status: {
             state: {
                 text: "dnd",
@@ -19,7 +19,7 @@ module.exports = {
         },
         activities: [],
         createdTimestamp: 1615924806867,
-        avatar: "giphy-1.gif",
+        avatar: "pfp.webp",
         banner: "iSWz1f.gif",
         accentColor: "#ce3760"
     },
@@ -28,19 +28,13 @@ module.exports = {
         icon: 'a_b33fc7d48d66fc39ccee397d752426fd.gif',
         description: 'MC Bedrock Chillzone, a relaxing server created to bring the Minecraft Bedrock community together!',
         url: 'https://discord.gg/VxXNywGx8U',
-        position: `Moderator`,
+        position: `Community Lead`,
     }, {
         name: 'Halos Hut',
         icon: 'cb9c106df86b493455a1cce977d2e867.webp',
         description: 'Halos Hut, a friendly Discord and Minecraft server.',
         url: 'https://halostv.com/',
-        position: `MC Jr. Staff`,
-    }, {
-        name: 'OasisSMP',
-        icon: 'cd96e38801626df%20(1).png',
-        description: 'The OasisSMP is a Minecraft SMP server for content creators and streamers! On this SMP, when you kill someone, you receive a permanent good effect, and the person you killed will get a permanent bad effect, and vice versa.',
-        url: 'https://discord.gg/sgeFUGm6',
-        position: `YouTuber`,
+        position: `MC Staff`,
     }, {
         name: 'WarzoneMC',
         icon: 'a_e6e56bad26599c76ab7288c60c4d4eb3.gif',
@@ -59,12 +53,6 @@ module.exports = {
         description: 'A fun SMP with a ton of plugins to make the game look, sound, and feel better!',
         url: 'https://mc.austinispog.tk',
         position: `Owner`
-    }, {
-        name: 'The Quick Minecraft Wiki',
-        icon: 'trial-hero-image-golem.png',
-        description: 'The place to find helpful rescoures, info, recipes, and much more for Minecraft very quickly!',
-        url: 'https://mchelp.austinispog.tk',
-        position: `Founder`
     }],
     header: {
         icon: `9692-monkey.gif`,
@@ -77,8 +65,8 @@ module.exports = {
     },
     metadata: {
         title: `Austin - Content Creator and Discord Moderator`,
-        description: `Hey hey! My name is Austin, I'm a small content creator & streamer, as well as moderate & manage many communities on Discord. I also enjoy playing with my dog and helping other people.`,
-        image: `verycoolpfp22.png`,
+        description: `Hey hey! My name is Austin, I'm a small content creator & streamer, as well as moderate & manage many communities on Discord. I also enjoy playing with my dog and helping other people. Visit my website to learn more about me!`,
+        image: `pfp.webp`,
         domainName: `austinispog.tk`,
         color: `#f19bec`,
         keywords: [
