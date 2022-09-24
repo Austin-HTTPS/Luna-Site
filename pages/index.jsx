@@ -83,7 +83,7 @@ export default function Homepage({ user, cards, error }) {
                                                 : <></>
                                             }
                                             {activity.assets.small.image ?
-                                                <img src={activity.assets.small.image} style={{ height: 27, position: 'absolute', top: 62, left: 66, backgroundColor: '#201d24', borderRadius: 10, outline: '#201d24 solid 0.2rem' }} draggable={false} alt={`${activity.name}'s small icon`} title={activity.assets.small.text} />
+                                                <img src={activity.assets.small.image} style={{ height: 27, position: 'absolute', top: 62, left: 66, backgroundColor: '#201d24', borderRadius: 10, outline: '#201d24 solid 0.2rem' }} draggable={false} alt={`${activity.name}`} title={activity.assets.small.text} />
                                                 : <></>
                                             }
                                         </div>

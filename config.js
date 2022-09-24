@@ -36,6 +36,12 @@ module.exports = {
         url: 'https://halostv.com/',
         position: `MC Staff`,
     }, {
+      name: 'Mojangs World',
+        icon: '4cac492630797bf49f8c8740436a8ae6.png',
+        description: 'A community specialised for you all to endure and engage with new people, interact and have new connections with others!',
+        url: 'https://discord.gg/FEDPffRB',
+        position: `Moderator`,
+    }, {
         name: 'WarzoneMC',
         icon: 'a_e6e56bad26599c76ab7288c60c4d4eb3.gif',
         description: 'Warzone is a team organized gamemode where your goal is to follow the objective of the round while stopping the other team from achieving so too.',
