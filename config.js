@@ -54,6 +54,12 @@ module.exports = {
         url: 'https://discord.gg/8M26wxkRPj',
         position: `Helper`,
     }, {
+        name: 'circle labs',
+        icon: 'fed9436d47ba2d324ae4341c1ed95322.png',
+        description: 'Create awesome AI chatbots with its own personalities, memories, and brainpower!',
+        url: 'https://warzone.network',
+        position: `Jr. Mod`,
+    }, {
         name: 'Austins Oasis',
         icon: 'server-icon.png',
         description: 'A fun SMP with a ton of plugins to make the game look, sound, and feel better!',
