@@ -58,7 +58,7 @@ module.exports = {
         icon: 'fed9436d47ba2d324ae4341c1ed95322.png',
         description: 'Create awesome AI chatbots with its own personalities, memories, and brainpower!',
         url: 'https://discord.gg/circlelabs',
-        position: `Jr. Mod`,
+        position: `Helper`,
     }, {
         name: 'Austins Oasis',
         icon: 'server-icon.png',
