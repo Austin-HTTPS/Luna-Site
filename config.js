@@ -40,7 +40,7 @@ module.exports = {
         icon: '4cac492630797bf49f8c8740436a8ae6.png',
         description: 'A community specialised for you all to endure and engage with new people, interact and have new connections with others!',
         url: 'https://discord.gg/FEDPffRB',
-        position: `Moderator`,
+        position: `Ambassador`,
     }, {
         name: 'WarzoneMC',
         icon: 'a_e6e56bad26599c76ab7288c60c4d4eb3.gif',

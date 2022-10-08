@@ -42,14 +42,16 @@ export default function Homepage({ user, cards, error }) {
                         <div className={style.readme}>
                             <strong style={{ fontSize: 27 }}>👋 About me</strong> <br />
                             <div style={{ marginTop: 8, marginLeft: 12 }}>
-                                I'm <strong>Austin</strong>, a cool <strong>person</strong> who lives in <strong>California</strong>.
-                                I'm a small content creator and community moderator on Discord <img src="/discord-brands.svg" style={{ width: 18, height: 19 }} /> .
-                                I have taught myself many different things about moderation, Minecraft <img src="/4367d3d3cbae6de3b20c6bf7584c40e7.svg" style={{ width: 18, height: 19 }} />, and <strong>more</strong>!
+                                Hey there! My name is <strong>Austin</strong> and I'm a small content creator and moderator on Discord. 
+                              <br /><br />
+                                I've taught myself a ton about moderation, Minecraft, and much more! I joined Discord on <strong>July 12, 2019</strong>, and Minecraft on <strong>March 16, 2020</strong>. You may see me moderating some support servers and other community servers on Discord! 
                                 <br /><br />
-                                I joined Discord on July 12, 2019, and YouTube <img src="/youtube-brands.svg" style={{ width: 18, height: 19 }} /> on  December 5, 2019; however, I didn't really start exploring the internet until <strong>early 2020</strong>. Since then, I've been busy moderating <strong>multiple</strong> Discord & Minecraft servers, making YouTube videos, and having fun! <br /> <br />
-                              
-                                Because of Discord & Minecraft, I have meet many <strong>awesome</strong> and kind people. 😊<br /><br />
-                              New paragraphs coming soon! <br /><br /><br />
+                               My current goals are to get the <strong>certified moderator badge</strong> on Discord and to be a <strong>well-rounded</strong> Minecraft player! My favorite color is <strong>green</strong> and I love to play with my dog.
+                              <br /><br />
+                              I would like to thank everyone who helped me get to where I am today and all of my friends! Because of Minecraft and Discord, I've met a lot of very awesome people!
+                              <br /><br />
+                              I only friend people on Discord who I know or work with. "I could say hmm and mean 69 different things"
+                              <br /><br />
                             </div>
                             <br />
                             <strong style={{ fontSize: 27 }}>🐦 Social Medias</strong><br />
