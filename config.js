@@ -61,9 +61,9 @@ module.exports = {
         position: `Moderator`,
     }, {
         name: 'Austins Oasis',
-        icon: 'server-icon.png',
+        icon: 'a_b9dba793d63a6e6e33236f6ce82177ce.gif',
         description: 'A Discord server to chill and chat! And, a fun SMP with a ton of plugins to make the game look, sound, and feel better!',
-        url: 'https://mc.austinispog.tk',
+        url: 'https://discord.gg/a3av4pZMx2',
         position: `Owner`
     }],
     header: {
