@@ -55,14 +55,14 @@ module.exports = {
         position: `Helper`,
     }, {
         name: 'circle labs',
-        icon: 'fed9436d47ba2d324ae4341c1ed95322.png',
+        icon: 'fed9436d47ba2d324ae4341c1ed95322.gif',
         description: 'Create awesome AI chatbots with its own personalities, memories, and brainpower!',
         url: 'https://discord.gg/circlelabs',
-        position: `Helper`,
+        position: `Moderator`,
     }, {
         name: 'Austins Oasis',
         icon: 'server-icon.png',
-        description: 'A fun SMP with a ton of plugins to make the game look, sound, and feel better!',
+        description: 'A Discord server to chill and chat! And, a fun SMP with a ton of plugins to make the game look, sound, and feel better!',
         url: 'https://mc.austinispog.tk',
         position: `Owner`
     }],
