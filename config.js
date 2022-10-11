@@ -34,13 +34,13 @@ module.exports = {
         icon: 'cb9c106df86b493455a1cce977d2e867.webp',
         description: 'Halos Hut, a friendly Discord and Minecraft server.',
         url: 'https://halostv.com/',
-        position: `MC Staff`,
+        position: `MC Staff & Support`,
     }, {
-      name: 'Mojangs World',
-        icon: '4cac492630797bf49f8c8740436a8ae6.png',
+      name: 'Official MojangPrince',
+        icon: '34c3f403015718c16184a636e8284363.png',
         description: 'A community specialised for you all to endure and engage with new people, interact and have new connections with others!',
         url: 'https://discord.gg/FEDPffRB',
-        position: `Ambassador`,
+        position: `Senior Ambassador`,
     }, {
         name: 'WarzoneMC',
         icon: 'a_e6e56bad26599c76ab7288c60c4d4eb3.gif',
