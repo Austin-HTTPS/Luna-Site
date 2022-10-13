@@ -41,13 +41,13 @@ module.exports = {
         description: 'Faint is a simple and easy to use discord antinuke bot which helps keep your server intact.',
         url: 'https://support.faint.vip/',
         position: `Staff`,
+        bot: 2
     }, {
         name: 'WarzoneMC',
         icon: 'a_e6e56bad26599c76ab7288c60c4d4eb3.gif',
         description: 'Warzone is a team organized gamemode where your goal is to follow the objective of the round while stopping the other team from achieving so too.',
         url: 'https://warzone.network',
         position: `Former Jr. Mod`,
-        bot: 2
     }, {
         name: 'The Beehive',
         icon: '979c5ce915e63338054fe1ffc647844d.webp',
@@ -70,11 +70,7 @@ module.exports = {
     header: {
         icon: `9692-monkey.gif`,
         name: `Austin`,
-        buttons: {
-            Discord: `/discord`,
-            GitHub: `/github`,
-            Twitter: `/twitter`
-        }
+
     },
     metadata: {
         title: `Austin - Content Creator and Discord Moderator`,
