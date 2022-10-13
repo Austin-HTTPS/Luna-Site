@@ -36,17 +36,18 @@ module.exports = {
         url: 'https://halostv.com/',
         position: `MC Staff & Support`,
     }, {
-      name: 'Official MojangPrince',
-        icon: '34c3f403015718c16184a636e8284363.png',
-        description: 'A community specialised for you all to endure and engage with new people, interact and have new connections with others!',
-        url: 'https://discord.gg/FEDPffRB',
-        position: `Senior Ambassador`,
+      name: 'Faint',
+        icon: '1cb3efc2868f7ff536d4af3873c4bddf.webp',
+        description: 'Faint is a simple and easy to use discord antinuke bot which helps keep your server intact.',
+        url: 'https://support.faint.vip/',
+        position: `Staff`,
     }, {
         name: 'WarzoneMC',
         icon: 'a_e6e56bad26599c76ab7288c60c4d4eb3.gif',
         description: 'Warzone is a team organized gamemode where your goal is to follow the objective of the round while stopping the other team from achieving so too.',
         url: 'https://warzone.network',
         position: `Former Jr. Mod`,
+        bot: 2
     }, {
         name: 'The Beehive',
         icon: '979c5ce915e63338054fe1ffc647844d.webp',
