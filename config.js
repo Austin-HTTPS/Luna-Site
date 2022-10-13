@@ -70,7 +70,11 @@ module.exports = {
     header: {
         icon: `9692-monkey.gif`,
         name: `Austin`,
-
+        buttons: {
+            Discord: `/discord`,
+            GitHub: `/github`,
+            Twitter: `/twitter`
+        }
     },
     metadata: {
         title: `Austin - Content Creator and Discord Moderator`,
@@ -87,7 +91,18 @@ module.exports = {
             'Austins Oasis',
             'Austin SMP',
             'AustinLmao',
-            'AyoAustin'
+            'AyoAustin',
+            'Minecraft',
+            'WarzoneMC',
+            'MC Bedrock Chillzone',
+            'austinispog.tk',
+            'The Beehive',
+            'MCBC',
+            'Moderator',
+            'Developer',
+            'Partner',
+            'Content Creator',
+            'bots'
         ],
     }
 }
