@@ -20,7 +20,7 @@ module.exports = {
         activities: [],
         createdTimestamp: 1615924806867,
         avatar: "pfp.webp",
-        banner: "iSWz1f.gif",
+        banner: "2526-bongo-cat-bruh.gif",
         accentColor: "#ce3760"
     },
     cards: [{
@@ -29,6 +29,7 @@ module.exports = {
         description: 'MC Bedrock Chillzone, a relaxing server created to bring the Minecraft Bedrock community together!',
         url: 'https://discord.gg/VxXNywGx8U',
         position: `Community Lead`,
+        time: `June 2022 - Present`
     }, {
         name: 'Halos Hut',
         icon: 'cb9c106df86b493455a1cce977d2e867.webp',
