@@ -50,6 +50,12 @@ module.exports = {
         url: 'https://discord.gg/HEeTAUXYww',
         position: `Trial Moderator`,
     }, {
+        name: 'Filmmaker Basics',
+        icon: 'filmmakers.gif',
+        description: 'This server was created to help beginning filmmakers/content creators (or people interested in it) grow.',
+        url: 'https://discord.gg/TrqAY8xH',
+        position: `Trainee Moderator`,
+    }, {
         name: 'WarzoneMC',
         icon: 'a_e6e56bad26599c76ab7288c60c4d4eb3.gif',
         description: 'Warzone is a team organized gamemode where your goal is to follow the objective of the round while stopping the other team from achieving so too.',
