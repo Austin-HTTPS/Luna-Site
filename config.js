@@ -44,14 +44,14 @@ module.exports = {
         position: `Staff`,
         bot: 2
     }, {
-        name: 'WarzoneMC',
-        icon: 'a_e6e56bad26599c76ab7288c60c4d4eb3.gif',
+        name: 'Book of Discord',
+        icon: 'bookofdiscord.webp',
         description: 'We are dedicated to providing a safe and inclusive space for the discord community to come together and learn about the platform at the same time.',
         url: 'https://discord.gg/HEeTAUXYww',
         position: `Trial Moderator`,
     }, {
-        name: 'Book of Discord',
-        icon: 'bookofdiscord.webp',
+        name: 'WarzoneMC',
+        icon: 'a_e6e56bad26599c76ab7288c60c4d4eb3.gif',
         description: 'Warzone is a team organized gamemode where your goal is to follow the objective of the round while stopping the other team from achieving so too.',
         url: 'https://warzone.network',
         position: `Former Jr. Mod`,
