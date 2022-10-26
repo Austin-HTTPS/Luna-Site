@@ -8,7 +8,7 @@ module.exports = {
         username: "MrAustin",
         discriminator: "3915",
         nickname: "Austin",
-        nickavatar: "pfp.webp",
+        nickavatar: "pfp.gif",
         status: {
             state: {
                 text: "dnd",
@@ -19,7 +19,7 @@ module.exports = {
         },
         activities: [],
         createdTimestamp: 1615924806867,
-        avatar: "pfp.webp",
+        avatar: "pfp.gif",
         banner: "2526-bongo-cat-bruh.gif",
         accentColor: "#ce3760"
     },
@@ -35,7 +35,7 @@ module.exports = {
         icon: 'cb9c106df86b493455a1cce977d2e867.webp',
         description: 'Halos Hut, a friendly Discord and Minecraft server.',
         url: 'https://halostv.com/',
-        position: `MC Staff & Support`,
+        position: `MC Staff & Support & Events`,
     }, {
       name: 'Faint',
         icon: '1cb3efc2868f7ff536d4af3873c4bddf.webp',
@@ -46,6 +46,12 @@ module.exports = {
     }, {
         name: 'WarzoneMC',
         icon: 'a_e6e56bad26599c76ab7288c60c4d4eb3.gif',
+        description: 'We are dedicated to providing a safe and inclusive space for the discord community to come together and learn about the platform at the same time.',
+        url: 'https://discord.gg/HEeTAUXYww',
+        position: `Trial Moderator`,
+    }, {
+        name: 'Book of Discord',
+        icon: 'bookofdiscord.webp',
         description: 'Warzone is a team organized gamemode where your goal is to follow the objective of the round while stopping the other team from achieving so too.',
         url: 'https://warzone.network',
         position: `Former Jr. Mod`,
@@ -69,7 +75,7 @@ module.exports = {
         position: `Owner`
     }],
     header: {
-        icon: `9692-monkey.gif`,
+        icon: `pfp.webp`,
         name: `Austin`,
         buttons: {
             Discord: `/discord`,
@@ -80,7 +86,7 @@ module.exports = {
     metadata: {
         title: `Austin - Content Creator and Discord Moderator`,
         description: `Hey hey! My name is Austin, I'm a small content creator & streamer, as well as moderate & manage many communities on Discord. I also enjoy playing with my dog and helping other people. Visit my website to learn more about me!`,
-        image: `pfp.webp`,
+        image: `pfp.gif`,
         domainName: `austinispog.tk`,
         color: `#f19bec`,
         keywords: [
