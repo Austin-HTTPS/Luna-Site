@@ -38,7 +38,7 @@ module.exports = {
         position: `MC Staff & Support & Events`,
     }, {
       name: 'Faint',
-        icon: '1cb3efc2868f7ff536d4af3873c4bddf.webp',
+        icon: 'faint.gif',
         description: 'Faint is a simple and easy to use discord antinuke bot which helps keep your server intact.',
         url: 'https://support.faint.vip/',
         position: `Staff`,
