@@ -28,8 +28,8 @@ module.exports = {
         icon: 'a_b33fc7d48d66fc39ccee397d752426fd.gif',
         description: 'MC Bedrock Chillzone, a relaxing server created to bring the Minecraft Bedrock community together!',
         url: 'https://discord.gg/VxXNywGx8U',
-        position: `Community Lead`,
-        time: `June 2022 - Present`
+        position: `Former Community Lead`,
+        time: `June 2022 - October 2022`
     }, {
         name: 'Halos Hut',
         icon: 'cb9c106df86b493455a1cce977d2e867.webp',
@@ -73,6 +73,12 @@ module.exports = {
         description: 'Create awesome AI chatbots with its own personalities, memories, and brainpower!',
         url: 'https://discord.gg/circlelabs',
         position: `Moderator`,
+     }, {
+        name: 'Doors | Roblox',
+        icon: 'doors.png',
+        description: 'Doors is a fandom community based on the doors game developed by LSplash.',
+        url: 'https://discord.gg/doors',
+        position: `Trainee Moderator`,
     }, {
         name: 'Austins Oasis',
         icon: 'a_b9dba793d63a6e6e33236f6ce82177ce.gif',
