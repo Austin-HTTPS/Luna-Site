@@ -66,7 +66,7 @@ module.exports = {
         icon: '979c5ce915e63338054fe1ffc647844d.webp',
         description: 'The Beehive is a hub for all Minecrafters to come together and socialize in a safe corner of the internet.',
         url: 'https://discord.gg/8M26wxkRPj',
-        position: `Helper`,
+        position: `Former Helper`,
     }, {
         name: 'circle labs',
         icon: 'fed9436d47ba2d324ae4341c1ed95322.gif',
@@ -75,10 +75,16 @@ module.exports = {
         position: `Moderator`,
      }, {
         name: 'Doors | Roblox',
-        icon: 'doors.png',
+        icon: 'doors.gif',
         description: 'Doors is a fandom community based on the doors game developed by LSplash.',
         url: 'https://discord.gg/doors',
         position: `Trainee Moderator`,
+    }, {
+        name: 'MilkJug',
+        icon: 'milkjug.gif',
+        description: 'The place for artists to talk about art, for GFX artists to find resources, and for friendly people to chat!',
+        url: 'https://discord.gg/milk',
+        position: `Trial Learner`,
     }, {
         name: 'Austins Oasis',
         icon: 'a_b9dba793d63a6e6e33236f6ce82177ce.gif',
