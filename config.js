@@ -99,7 +99,7 @@ module.exports = {
         position: `Owner`
     }],
     header: {
-        icon: `pfp.webp`,
+        icon: `8677-happy-slime-by-crystalpx.gif`,
         name: `Austin`,
         buttons: {
             Discord: `/discord`,
@@ -110,7 +110,7 @@ module.exports = {
     metadata: {
         title: `Austin - Content Creator and Discord Moderator`,
         description: `Hey hey! My name is Austin, I'm a small content creator & streamer, as well as moderate & manage many communities on Discord. I also enjoy playing with my dog and helping other people. Visit my website to learn more about me!`,
-        image: `8677-happy-slime-by-crystalpx.gif`,
+        image: `pfp.gif`,
         domainName: `austinispog.tk`,
         color: `#f19bec`,
         keywords: [
