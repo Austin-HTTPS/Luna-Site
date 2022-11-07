@@ -50,6 +50,12 @@ module.exports = {
         url: 'https://discord.gg/HEeTAUXYww',
         position: `Trial Moderator`,
     }, {
+        name: 'Design Academy',
+        icon: 'design101.gif',
+        description: 'We are a community where you improve your design & crafting skills, get hired and open a store of your own.',
+        url: 'https://discord.gg/design101',
+        position: `Admin`,
+    }, {
         name: 'Filmmaker Basics',
         icon: 'filmmakers.gif',
         description: 'This server was created to help beginning filmmakers/content creators (or people interested in it) grow.',
@@ -104,7 +110,7 @@ module.exports = {
     metadata: {
         title: `Austin - Content Creator and Discord Moderator`,
         description: `Hey hey! My name is Austin, I'm a small content creator & streamer, as well as moderate & manage many communities on Discord. I also enjoy playing with my dog and helping other people. Visit my website to learn more about me!`,
-        image: `pfp.gif`,
+        image: `8677-happy-slime-by-crystalpx.gif`,
         domainName: `austinispog.tk`,
         color: `#f19bec`,
         keywords: [
