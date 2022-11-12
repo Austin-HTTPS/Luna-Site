@@ -50,11 +50,17 @@ module.exports = {
         url: 'https://discord.gg/HEeTAUXYww',
         position: `Trial Moderator`,
     }, {
+        name: 'Nerds🤓🤓',
+        icon: 'nerd.gif',
+        description: '🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓',
+        url: 'https://discord.gg/actually',
+        position: `Moderator`,
+    }, {
         name: 'Design Academy',
         icon: 'design101.gif',
         description: 'We are a community where you improve your design & crafting skills, get hired and open a store of your own.',
         url: 'https://discord.gg/design101',
-        position: `Admin`,
+        position: `Head Moderator`,
     }, {
         name: 'Filmmaker Basics',
         icon: 'filmmakers.gif',
@@ -75,10 +81,16 @@ module.exports = {
         position: `Former Helper`,
     }, {
         name: 'circle labs',
-        icon: 'fed9436d47ba2d324ae4341c1ed95322.gif',
+        icon: 'icons.png',
         description: 'Create awesome AI chatbots with its own personalities, memories, and brainpower!',
         url: 'https://discord.gg/circlelabs',
         position: `Moderator`,
+     }, {
+        name: 'Icons',
+        icon: 'fed9436d47ba2d324ae4341c1ed95322.gif',
+        description: 'Our goal is to provide all kinds resources and help users learn how to make icons, give ideas for designs and much more.',
+        url: 'https://discord.gg/aPvvhefmt3',
+        position: `Events Staff`,
      }, {
         name: 'Doors | Roblox',
         icon: 'doors.gif',
