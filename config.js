@@ -81,13 +81,13 @@ module.exports = {
         position: `Former Helper`,
     }, {
         name: 'circle labs',
-        icon: 'icons.png',
+        icon: 'fed9436d47ba2d324ae4341c1ed95322.gif',
         description: 'Create awesome AI chatbots with its own personalities, memories, and brainpower!',
         url: 'https://discord.gg/circlelabs',
         position: `Moderator`,
      }, {
         name: 'Icons',
-        icon: 'fed9436d47ba2d324ae4341c1ed95322.gif',
+        icon: 'icons.png',
         description: 'Our goal is to provide all kinds resources and help users learn how to make icons, give ideas for designs and much more.',
         url: 'https://discord.gg/aPvvhefmt3',
         position: `Events Staff`,
