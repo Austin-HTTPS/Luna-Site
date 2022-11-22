@@ -8,7 +8,7 @@ module.exports = {
         username: "MrAustin",
         discriminator: "3915",
         nickname: "Austin",
-        nickavatar: "pfp.gif",
+        nickavatar: "pfpss.png",
         status: {
             state: {
                 text: "dnd",
@@ -19,7 +19,7 @@ module.exports = {
         },
         activities: [],
         createdTimestamp: 1615924806867,
-        avatar: "pfp.gif",
+        avatar: "pfpss.png",
         banner: "2526-bongo-cat-bruh.gif",
         accentColor: "#ce3760"
     },
@@ -96,13 +96,7 @@ module.exports = {
         icon: 'doors.gif',
         description: 'Doors is a fandom community based on the doors game developed by LSplash.',
         url: 'https://discord.gg/doors',
-        position: `Trainee Moderator`,
-    }, {
-        name: 'MilkJug',
-        icon: 'milkjug.gif',
-        description: 'The place for artists to talk about art, for GFX artists to find resources, and for friendly people to chat!',
-        url: 'https://discord.gg/milk',
-        position: `Trial Learner`,
+        position: `Moderator`,
     }, {
         name: 'Austins Oasis',
         icon: 'a_b9dba793d63a6e6e33236f6ce82177ce.gif',
@@ -122,7 +116,7 @@ module.exports = {
     metadata: {
         title: `Austin - Content Creator and Discord Moderator`,
         description: `Hey hey! My name is Austin, I'm a small content creator & streamer, as well as moderate & manage many communities on Discord. I also enjoy playing with my dog and helping other people. Visit my website to learn more about me!`,
-        image: `pfp.gif`,
+        image: `pfpss.png`,
         domainName: `austinispog.tk`,
         color: `#f19bec`,
         keywords: [

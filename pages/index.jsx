@@ -42,13 +42,13 @@ export default function Homepage({ user, cards, error }) {
                         <div className={style.readme}>
                             <strong style={{ fontSize: 27 }}>👋 About me</strong> <br />
                             <div style={{ marginTop: 8, marginLeft: 12 }}>
-                                Hey there! My name is <strong>Austin</strong> and I'm a small content creator and moderator on Discord. 
+                                Hey there! My name is <strong>Austin</strong> and I'm a small content creator and moderator on Discord living in California (GMT-8).
                               <br /><br />
                                 I've taught myself a ton about moderation, Minecraft, and much more! I joined Discord on <strong>July 12, 2019</strong>, and Minecraft on <strong>March 16, 2020</strong>. You may see me moderating some support servers and other community servers on Discord! 
                                 <br /><br />
                                My current goals are to get the <strong>certified moderator badge</strong> on Discord and to be a <strong>well-rounded</strong> Minecraft player! My favorite color is <strong>green</strong> and I love to play with my dog.
                               <br /><br />
-                              I would like to thank everyone who helped me get to where I am today and all of my friends! Because of Minecraft and Discord, I've met a lot of very awesome people!
+                              I would like to thank everyone who helped me get to where I am today and all of my friends! Because of Minecraft and Discord, I've met a lot of very awesome people! Also, I would like to thank  <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://twitter.com/funnydusto')}>@funnydusto</button> for making my awesome profile picture.
                               <br /><br />
                               I only friend people on Discord who I know or work with. "I could say hmm and mean 69 different things"
                               <br /><br />
