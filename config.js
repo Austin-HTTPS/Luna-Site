@@ -24,7 +24,7 @@ module.exports = {
         accentColor: "#ce3760"
     },
     cards: [{     
-      name: 'Faint',
+        name: 'Faint',
         icon: 'faint.gif',
         description: 'Faint is a simple and easy to use discord antinuke bot which helps keep your server intact.',
         url: 'https://support.faint.vip/',
@@ -38,7 +38,7 @@ module.exports = {
         position: `Moderator`,
     }, {
         name: 'circle labs',
-        icon: 'fed9436d47ba2d324ae4341c1ed95322.gif',
+        icon: 'circlelabs.gif',
         description: 'Create awesome AI chatbots with its own personalities, memories, and brainpower!',
         url: 'https://discord.gg/circlelabs',
         position: `Moderator`,
@@ -48,6 +48,12 @@ module.exports = {
         description: 'Our goal is to provide all kinds resources and help users learn how to make icons, give ideas for designs and much more.',
         url: 'https://discord.gg/aPvvhefmt3',
         position: `Events Staff`,
+    }, {
+        name: 'Nintendo',
+        icon: 'nintendo.gif',
+        description: 'Discuss and share content from your favorite franchises with, team up and play games together, or just hang around and have a good time!',
+        url: 'https://discord.gg/nintendo',
+        position: `Moderator`,
      }, {
         name: 'Doors | Roblox',
         icon: 'doors.gif',
