@@ -23,20 +23,7 @@ module.exports = {
         banner: "2526-bongo-cat-bruh.gif",
         accentColor: "#ce3760"
     },
-    cards: [{
-        name: 'MC Bedrock Chillzone',
-        icon: 'a_b33fc7d48d66fc39ccee397d752426fd.gif',
-        description: 'MC Bedrock Chillzone, a relaxing server created to bring the Minecraft Bedrock community together!',
-        url: 'https://discord.gg/VxXNywGx8U',
-        position: `Former Community Lead`,
-        time: `June 2022 - October 2022`
-    }, {
-        name: 'Halos Hut',
-        icon: 'cb9c106df86b493455a1cce977d2e867.webp',
-        description: 'Halos Hut, a friendly Discord and Minecraft server.',
-        url: 'https://halostv.com/',
-        position: `MC Staff & Support & Events`,
-    }, {
+    cards: [{     
       name: 'Faint',
         icon: 'faint.gif',
         description: 'Faint is a simple and easy to use discord antinuke bot which helps keep your server intact.',
@@ -44,41 +31,11 @@ module.exports = {
         position: `Staff`,
         bot: 2
     }, {
-        name: 'Book of Discord',
-        icon: 'bookofdiscord.webp',
-        description: 'We are dedicated to providing a safe and inclusive space for the discord community to come together and learn about the platform at the same time.',
-        url: 'https://discord.gg/HEeTAUXYww',
-        position: `Trial Moderator`,
-    }, {
         name: 'Nerds🤓🤓',
         icon: 'nerd.gif',
-        description: '🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓',
+        description: 'A popular troll server from the well-known nerd discord gift sdk.',
         url: 'https://discord.gg/actually',
         position: `Moderator`,
-    }, {
-        name: 'Design Academy',
-        icon: 'design101.gif',
-        description: 'We are a community where you improve your design & crafting skills, get hired and open a store of your own.',
-        url: 'https://discord.gg/design101',
-        position: `Head Moderator`,
-    }, {
-        name: 'Filmmaker Basics',
-        icon: 'filmmakers.gif',
-        description: 'This server was created to help beginning filmmakers/content creators (or people interested in it) grow.',
-        url: 'https://discord.gg/TrqAY8xH',
-        position: `Trainee Moderator`,
-    }, {
-        name: 'WarzoneMC',
-        icon: 'a_e6e56bad26599c76ab7288c60c4d4eb3.gif',
-        description: 'Warzone is a team organized gamemode where your goal is to follow the objective of the round while stopping the other team from achieving so too.',
-        url: 'https://warzone.network',
-        position: `Former Jr. Mod`,
-    }, {
-        name: 'The Beehive',
-        icon: '979c5ce915e63338054fe1ffc647844d.webp',
-        description: 'The Beehive is a hub for all Minecrafters to come together and socialize in a safe corner of the internet.',
-        url: 'https://discord.gg/8M26wxkRPj',
-        position: `Former Helper`,
     }, {
         name: 'circle labs',
         icon: 'fed9436d47ba2d324ae4341c1ed95322.gif',
@@ -96,13 +53,7 @@ module.exports = {
         icon: 'doors.gif',
         description: 'Doors is a fandom community based on the doors game developed by LSplash.',
         url: 'https://discord.gg/doors',
-        position: `Moderator`,
-    }, {
-        name: 'Austins Oasis',
-        icon: 'a_b9dba793d63a6e6e33236f6ce82177ce.gif',
-        description: 'A Discord server to chill and chat! And, a fun SMP with a ton of plugins to make the game look, sound, and feel better!',
-        url: 'https://discord.gg/a3av4pZMx2',
-        position: `Owner`
+        position: `Moderator`
     }],
     header: {
         icon: `8677-happy-slime-by-crystalpx.gif`,
