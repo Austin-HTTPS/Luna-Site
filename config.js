@@ -62,7 +62,7 @@ module.exports = {
         position: `Moderator`
     }],
     header: {
-        icon: `8677-happy-slime-by-crystalpx.gif`,
+        icon: `nickava.gif`,
         name: `Austin`,
         buttons: {
             Discord: `/discord`,
