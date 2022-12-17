@@ -20,7 +20,7 @@ module.exports = {
         activities: [],
         createdTimestamp: 1615924806867,
         avatar: "pfpss.png",
-        banner: "2526-bongo-cat-bruh.gif",
+        banner: "banner.gif",
         accentColor: "#ce3760"
     },
     cards: [{     

@@ -48,7 +48,7 @@ export default function Homepage({ user, cards, error }) {
                                 <br /><br />
                                My current goals are to get the <strong>partner badge</strong> on Discord and to be a <strong>well-rounded</strong> Minecraft player! My favorite color is <strong>green</strong> and I love to play with my dog.
                               <br /><br />
-                              I would like to thank everyone who helped me get to where I am today and all of my friends! Because of Minecraft and Discord, I've met a lot of very awesome people! Also, I would like to thank  <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://twitter.com/funnydusto')}>@funnydusto</button> for making my awesome profile picture.
+                              I would like to thank everyone who helped me get to where I am today and all of my friends! Because of Minecraft and Discord, I've met a lot of very awesome people! Also, I would like to thank  <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://twitter.com/funnydusto')}>@funnydusto</button> for making my awesome profile picture and <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://discord.gg/7fkKE4BBnd')}>@MrStefan</button> for making my amazing banner.
                               <br /><br />
                               I only friend people on Discord who I know or work with. "I could say hmm and mean 69 different things"
                               <br /><br />
