@@ -2,7 +2,7 @@ import config from '../config';
 import style from '../styles/Home.module.css';
 import { useState, useEffect } from 'react';
 
-import { HiOutlineNewspaper, HiOutlineLink, HiX, HiOutlineExclamation, HiOutlineFolder, HiOutlineMenuAlt2, HiClock, HiVideoCamera, HiOutlineShieldCheck, HiOutlineCode } from 'react-icons/hi';
+import { HiOutlineNewspaper, HiOutlineLink, HiX, HiOutlineExclamation, HiOutlineFolder, HiOutlineMenuAlt2, HiCode, HiClock, HiVideoCamera, HiOutlineShieldCheck, HiOutlineCode } from 'react-icons/hi';
 export default function Homepage({ user, cards, error }) {
     const [width, setWidth] = useState()
     useEffect(() => {
@@ -34,7 +34,7 @@ export default function Homepage({ user, cards, error }) {
                             }
                         </div>
                         <div className={style.badges} style={(user?.status?.emote || user?.status?.text) ? { marginTop: 8 } : { marginTop: width > 540 ? 14 : 4 }}>
-                            <button className={style.badge} title='https://www.youtube.com/NotMrAustin' onClick={() => window.open('https://www.youtube.com/NotMrAustin')}> <HiVideoCamera style={{ height: 22, width: 22, marginRight: 4 }} /> YouTuber </button>
+                            <button className={style.badge} title='https://github.com/Austin-HTTPS' onClick={() => window.open('https://github.com/Austin-HTTPS')}> <HiCode style={{ height: 22, width: 22, marginRight: 4 }} /> Developer </button>
                             <button className={style.badge} title='https://discord.gg/a3av4pZMx2' onClick={() => window.open('https://discord.gg/a3av4pZMx2')}> <HiOutlineShieldCheck style={{ height: 22, width: 22, marginRight: 4 }} /> Moderator </button>
                         </div>
                     </div>
