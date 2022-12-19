@@ -6,7 +6,8 @@
 body,
 html {
     font-family: 'Ubuntu', sans-serif;
-    background: rgb(36, 32, 41);
+    /* background: rgb(36, 32, 41); */
+    background-image: url("bgimg.gif");
     position: relative;
     min-height: 100vh;
     overflow-x: hidden;
