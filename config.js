@@ -28,10 +28,10 @@ module.exports = {
         icon: 'faint.gif',
         description: 'Faint is a simple and easy to use discord antinuke bot which helps keep your server intact.',
         url: 'https://support.faint.vip/',
-        position: `Staff`,
+        position: `Moderator`,
         bot: 2
     }, {
-        name: 'Nerds🤓🤓',
+        name: 'Nerds',
         icon: 'nerd.gif',
         description: 'A popular troll server from the well-known nerd discord gift sdk.',
         url: 'https://discord.gg/actually',
@@ -43,17 +43,17 @@ module.exports = {
         url: 'https://discord.gg/circlelabs',
         position: `Moderator`,
      }, {
-        name: 'Icons',
-        icon: 'icons.png',
-        description: 'Our goal is to provide all kinds resources and help users learn how to make icons, give ideas for designs and much more.',
-        url: 'https://discord.gg/aPvvhefmt3',
-        position: `Events Staff`,
+        name: 'Olixs Corner Shop',
+        icon: 'olix.png',
+        description: 'Server for the youtuber Olix with over 400,000 subscribers. Main theme of Roblox but not limited to.',
+        url: 'https://discord.gg/olix',
+        position: `Trial Moderator`,
     }, {
         name: 'Nintendo',
         icon: 'nintendo.gif',
         description: 'Discuss and share content from your favorite franchises with, team up and play games together, or just hang around and have a good time!',
         url: 'https://discord.gg/nintendo',
-        position: `Moderator`,
+        position: `Administrator`,
      }, {
         name: 'Doors | Roblox',
         icon: 'doors.gif',
