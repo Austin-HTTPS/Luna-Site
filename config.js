@@ -34,7 +34,7 @@ module.exports = {
         name: 'Nerds',
         icon: 'nerd.gif',
         description: 'A popular troll server from the well-known nerd discord gift sdk.',
-        url: 'https://discord.gg/actually',
+        url: 'https://discord.gg/nerd',
         position: `Moderator`,
     }, {
         name: 'circle labs',
