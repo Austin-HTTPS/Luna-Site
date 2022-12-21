@@ -12,7 +12,7 @@ function Experiences() {
             </Head>
               <div className={style.align}>
                     <div className={style.container}>
-                        <strong style={{ fontSize: 32, color: '#ddd9e6' }}>Experiences</strong><text style={{ color: 'rgb(221, 217, 230)', fontSize: 24 }}> ⌋ Coming soon!</text> <br />
+                        <strong style={{ fontSize: 32, color: '#ddd9e6' }}>Experiences</strong><text style={{ color: 'rgb(221, 217, 230)', fontSize: 24 }}> ⌋ Coming soon!!</text> <br />
                     </div>
               </div>
         </div>
