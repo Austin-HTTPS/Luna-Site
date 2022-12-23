@@ -42,7 +42,7 @@ export default function Homepage({ user, cards, error }) {
                         <div className={style.readme}>
                             <strong style={{ fontSize: 27 }}>👋 About me</strong> <br />
                             <div style={{ marginTop: 8, marginLeft: 12 }}>
-                                Hey there! My name is <strong>Austin</strong> and I'm a small content creator and moderator on Discord living in California (GMT-8).
+                                Hey there! My name is <strong>Austin</strong> and I'm a small content creator and moderator on Discord living in California <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://time.is/PST')}>(GMT-8)</button>.
                               <br /><br />
                                 I've taught myself a ton about moderation, Minecraft, and much more! I joined Discord on <strong>July 12, 2019</strong>, and Minecraft on <strong>March 16, 2020</strong>. You may see me moderating some support servers and other community servers on Discord! 
                                 <br /><br />
