@@ -57,15 +57,21 @@ export default function Homepage({ user, cards, error }) {
                             <strong style={{ fontSize: 27 }}>🐦 Social Medias</strong><br />
                             <div style={{ marginTop: 8, marginLeft: 12 }}>
                                 <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://discord.gg/a3av4pZMx2')}><img src="/discord.png" style={{ width: 18, height: 19 }} /> MrAustin#3915</button>&nbsp; &nbsp; &nbsp;&nbsp;
-                                <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://www.youtube.com/NotMrAustin')}><img src="/youtube.png" style={{ width: 18, height: 19 }} /> /notmraustin</button> <br />
+                                <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://www.youtube.com/NotMrAustin')}><img src="/youtube.png" style={{ width: 18, height: 19 }} /> /notmraustin</button> 
+<br />
                                 <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://www.instagram.com/notmraustin/')}><img src="/instagram.png" style={{ width: 18, height: 19 }} /> @NotMrAustin</button>&nbsp; &nbsp; &nbsp; &nbsp;
                                 <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://github.com/Austin-HTTPS')}><img src="/github.png" style={{ width: 18, height: 19 }} /> Austin-HTTPS</button> <br />
                                 <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://twitter.com/NotMrAustin')}><img src="/twitter.png" style={{ width: 18, height: 19 }} /> @NotMrAustin</button>&nbsp; &nbsp; &nbsp; &nbsp;
                                 <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://www.twitch.tv/notmraustin')}><img src="/twitch.png" style={{ width: 18, height: 19 }} /> NotMrAustin</button> <br />
                                 <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://www.tiktok.com/@notmraustin')}><img src="/tiktok.png" style={{ width: 18, height: 19 }} /> @NotMrAustin</button>&nbsp; &nbsp; &nbsp; &nbsp;
-                              <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://open.spotify.com/user/5xs3jjay7vb1yau2yzklzt9cm')}><img src="/spotify.png" style={{ width: 18, height: 19 }} /> notmraustin</button> <br />
+                              <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://open.spotify.com/user/5xs3jjay7vb1yau2yzklzt9cm')}><img src="/spotify.png" style={{ width: 18, height: 19 }} /> notmraustin</button> 
+<br />
                               <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://www.reddit.com/user/NotMrAustin')}><img src="/reddit.png" style={{ width: 18, height: 19 }} /> u/NotMrAustin</button>&nbsp; &nbsp; &nbsp; &nbsp;
-                              <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://www.patreon.com/notmraustin')}><img src="/patreon.png" style={{ width: 18, height: 19 }} /> notmraustin</button> <br />
+                              <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://www.patreon.com/notmraustin')}><img src="/patreon.png" style={{ width: 18, height: 19 }} /> notmraustin</button><br />
+                              <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://namemc.com/profile/_MrAustin.1')}><img src="/minecraft.png" style={{ width: 18, height: 19 }} />_MrAustin</button>&nbsp; &nbsp; &nbsp; &nbsp;
+                              <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://www.roblox.com/users/309905308/profile')}><img src="/roblox.png" style={{ width: 18, height: 19 }} /> KarateMaster7880</button> 
+<br />
+                              <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://steamcommunity.com/id/notmraustin/')}><img src="/steam.png" style={{ width: 18, height: 19 }} />NotMrAustin</button>&nbsp; &nbsp; &nbsp; &nbsp;
                             </div>
                             <br />
                             <strong style={{ fontSize: 27 }}>🍧 Contact</strong><br />
