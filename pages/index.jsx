@@ -68,9 +68,6 @@ export default function Homepage({ user, cards, error }) {
 <br />
                               <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://www.reddit.com/user/NotMrAustin')}><img src="/reddit.png" style={{ width: 18, height: 19 }} /> u/NotMrAustin</button>&nbsp; &nbsp; &nbsp; &nbsp;
                               <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://www.patreon.com/notmraustin')}><img src="/patreon.png" style={{ width: 18, height: 19 }} /> notmraustin</button><br />
-                              <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://namemc.com/profile/_MrAustin.1')}><img src="/minecraft.png" style={{ width: 18, height: 19 }} />_MrAustin</button>&nbsp; &nbsp; &nbsp; &nbsp;
-                              <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://www.roblox.com/users/309905308/profile')}><img src="/roblox.png" style={{ width: 18, height: 19 }} /> KarateMaster7880</button>&nbsp; &nbsp; &nbsp; &nbsp;
-<br />
                               <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://steamcommunity.com/id/notmraustin/')}><img src="/steam.png" style={{ width: 18, height: 19 }} />NotMrAustin</button>&nbsp; &nbsp; &nbsp; &nbsp;
                             </div>
                             <br />
