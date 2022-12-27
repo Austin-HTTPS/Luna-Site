@@ -1,11 +1,11 @@
-https://whois.austinispog.tk - API
+https://whois.mraustin.net - API
 https://replit.com/@AustinIsPog/whois#index.js - API repl
 
 
 -----------
 module.exports = {
     api: {
-        url: 'https://whois.austinispog.tk',
+        url: 'https://whois.mraustin.net',
         path: '/'
 
 - replace the '' with null if not using it / viceresa
