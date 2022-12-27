@@ -74,7 +74,7 @@ module.exports = {
         title: `Austin - Content Creator and Discord Moderator`,
         description: `Hey hey! My name is Austin, I'm a small content creator & streamer, as well as moderate & manage many communities on Discord. I also enjoy playing with my dog and helping other people. Visit my website to learn more about me!`,
         image: `pfpss2.png`,
-        domainName: `austinispog.tk`,
+        domainName: `mraustin.net`,
         color: `#f19bec`,
         keywords: [
             'Austin',
@@ -90,6 +90,7 @@ module.exports = {
             'WarzoneMC',
             'MC Bedrock Chillzone',
             'austinispog.tk',
+            'mraustin.net',
             'The Beehive',
             'MCBC',
             'Moderator',
