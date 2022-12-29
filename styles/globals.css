@@ -42,6 +42,12 @@ a {
     cursor: pointer;
     transition-duration: 300ms;
 }
+.hire {
+    font-family: 'Open Sans', sans-serif;
+    color: #00ff33;
+    cursor: pointer;
+    transition-duration: 300ms;
+}
 
 .link:hover {
     color: #1d65d7;
