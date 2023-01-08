@@ -44,7 +44,7 @@ export default function Homepage({ user, cards, error }) {
                             <div style={{ marginTop: 8, marginLeft: 12 }}>
                                 Hey there! My name is <strong>Austin</strong> and I'm a small content creator and moderator on Discord living in California <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://time.is/PST')}>(GMT-8)</button>.
                               <br /><br />
-                                I've taught myself a ton about moderation, Minecraft, and much more! I joined Discord on <strong>July 12, 2019</strong>, and Minecraft on <strong>March 16, 2020</strong>. You may see me moderating some support servers and other community servers on Discord! 
+                                I've taught myself a ton about moderation, Minecraft, and much more! You may see me moderating some support servers and other community servers on Discord!
                                 <br /><br />
                                My current goals are to get the <strong>partner badge</strong> on Discord and to be a <strong>well-rounded</strong> Minecraft player! My favorite color is <strong>green</strong> and I love to play with my dog.
                               <br /><br />
@@ -68,7 +68,7 @@ export default function Homepage({ user, cards, error }) {
 <br />
                               <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://www.reddit.com/user/NotMrAustin')}><img src="/reddit.png" style={{ width: 18, height: 19 }} /> u/NotMrAustin</button>&nbsp; &nbsp; &nbsp; &nbsp;
                               <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://www.patreon.com/notmraustin')}><img src="/patreon.png" style={{ width: 18, height: 19 }} /> notmraustin</button><br />
-                              <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://steamcommunity.com/id/notmraustin/')}><img src="/steam.png" style={{ width: 18, height: 19 }} />NotMrAustin</button>&nbsp; &nbsp; &nbsp; &nbsp;
+                              <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://steamcommunity.com/id/notmraustin/')}><img src="/steam.png" style={{ width: 18, height: 19 }} /> NotMrAustin</button>&nbsp; &nbsp; &nbsp; &nbsp;
                             </div>
                             <br />
                             <strong style={{ fontSize: 27 }}>🍧 Contact</strong><br />
