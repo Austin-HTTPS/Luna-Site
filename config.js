@@ -24,13 +24,6 @@ module.exports = {
         accentColor: "#ce3760"
     },
     cards: [{     
-        name: 'Faint',
-        icon: 'faint.gif',
-        description: 'Faint is a simple and easy to use discord antinuke bot which helps keep your server intact.',
-        url: 'https://support.faint.vip/',
-        position: `Moderator`,
-        bot: 2
-    }, {
         name: 'Nerds',
         icon: 'nerd.gif',
         description: 'A popular troll server from the well-known nerd discord gift sdk.',
