@@ -34,13 +34,13 @@ module.exports = {
         icon: 'circlelabs.gif',
         description: 'Create awesome AI chatbots with its own personalities, memories, and brainpower!',
         url: 'https://discord.gg/circlelabs',
-        position: `Moderator`,
+        position: `Head Moderator`,
      }, {
         name: 'Olixs Corner Shop',
         icon: 'olix.png',
         description: 'Server for the youtuber Olix with over 400,000 subscribers. Main theme of Roblox but not limited to.',
         url: 'https://discord.gg/olix',
-        position: `Trial Moderator`,
+        position: `Moderator`,
     }, {
         name: 'Nintendo',
         icon: 'nintendo.gif',
