@@ -51,7 +51,7 @@ export default function Homepage({ user, cards, error }) {
                             <strong style={{ fontSize: 27 }}>🐦 Social Medias</strong><br />
                             <div style={{ marginTop: 8, marginLeft: 12 }}>
                                 <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://discord.gg/a3av4pZMx2')}><img src="/discord.png" style={{ width: 18, height: 19 }} /> MrAustin#3915</button>&nbsp; &nbsp; &nbsp;&nbsp;
-                                <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://www.youtube.com/NotMrAustin')}><img src="/youtube.png" style={{ width: 18, height: 19 }} /> /notmraustin</button> 
+                                <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://www.youtube.com/NotMrAustin')}><img src="/youtube.png" style={{ width: 18, height: 19 }} /> /notmraustin</button> &nbsp; &nbsp; &nbsp; &nbsp;
 <br /> 
                                 <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://github.com/Austin-HTTPS')}><img src="/github.png" style={{ width: 18, height: 19 }} /> Austin-HTTPS</button> <br /> &nbsp; &nbsp; &nbsp; &nbsp;
                                 <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://twitter.com/NotMrAustin')}><img src="/twitter.png" style={{ width: 18, height: 19 }} /> @NotMrAustin</button>
