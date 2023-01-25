@@ -135,16 +135,7 @@ export default function Homepage({ user, cards, error }) {
                     </div>
                 </div>
                 {error === true ?
-                    <div className={style.error} id='error'>
-                        <strong><HiOutlineExclamation style={{ minHeight: 23, minWidth: 23, position: 'relative', top: 5 }} /> ERROR:</strong>
-                        <div style={{ fontFamily: 'Roboto Mono, monospace' }}>
-                            Failed to fetch user data; <br />
-                            Using preconfigured data;
-                        </div>
-                        <button style={{ position: 'absolute', top: 8, right: 8, display: 'flex' }} onClick={() => { document.getElementById('error').className += ' Home_fadeout__2jQec'; setTimeout(() => { document.getElementById('error').style.display = 'none' }, 900) }} >
-                            <HiX /> <div style={{ position: 'relative', bottom: 2 }}>CLOSE</div>
-                        </button>
-                    </div>
+                    
                     : <></>
                 }
             </div>
