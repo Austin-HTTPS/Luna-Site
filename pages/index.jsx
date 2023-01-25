@@ -42,15 +42,9 @@ export default function Homepage({ user, cards, error }) {
                         <div className={style.readme}>
                             <strong style={{ fontSize: 27 }}>👋 About me</strong> <br />
                             <div style={{ marginTop: 8, marginLeft: 12 }}>
-                                Hey there! My name is <strong>Austin</strong> and I'm a small content creator and moderator on Discord living in California <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://time.is/PST')}>(GMT-8)</button>.
+                                I am <strong>Austin</strong>, a skilled developer and moderator with experience in creating bots and managing communities on both the Discord and Minecraft platforms. I have acquired extensive knowledge and skills in various areas such as moderation, Minecraft, and more through self-study. I am often found providing moderation services and supporting communities on the Discord platform. My current goals include obtaining the partnership badge on the Discord platform and becoming a proficient player in Minecraft.
                               <br /><br />
-                                I've taught myself a ton about moderation, Minecraft, and much more! You may see me moderating some support servers and other community servers on Discord!
-                                <br /><br />
-                               My current goals are to get the <strong>partner badge</strong> on Discord and to be a <strong>well-rounded</strong> Minecraft player! My favorite color is <strong>green</strong> and I love to play with my dog.
-                              <br /><br />
-                              I would like to thank everyone who helped me get to where I am today and all of my friends! Because of Minecraft and Discord, I've met a lot of very awesome people! Also, I would like to thank  <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://twitter.com/funnydusto')}>@funnydusto</button> for making my awesome profile picture and <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://discord.gg/7fkKE4BBnd')}>@MrStefan</button> for making my amazing banner.
-                              <br /><br />
-                              I only friend people on Discord who I know or work with. "I could say hmm and mean 69 different things"
+                              I express my gratitude to all those who have assisted me in reaching my current position, as well as to my friends for their unwavering support. Through my experiences on Minecraft and Discord, I have had the pleasure of making many wonderful connections. I would also like to extend my gratitude to <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://twitter.com/funnydusto')}>@funnydusto</button> for creating my exceptional profile picture and <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://discord.gg/7fkKE4BBnd')}>@MrStefan</button> for designing my outstanding banner featured on this website. Their talents have greatly elevated the overall aesthetic and presentation of my online presence. It is important to note that I only add individuals to my friend list on the Discord platform who I am personally acquainted with or have a professional association with.
                               <br /><br />
                             </div>
                             <br />
