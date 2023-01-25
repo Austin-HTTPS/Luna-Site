@@ -159,7 +159,7 @@
 .error {
     z-index: 1000;
     font-size: 1.2rem;
-    color: rgb(255, 62, 94);
+    color: rgb(212, 255, 0);
     background-color: rgba(72, 36, 51, 0.8);
     border-radius: 0.2rem;
     position: fixed;
