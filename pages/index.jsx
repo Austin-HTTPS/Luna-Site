@@ -109,7 +109,7 @@ export default function Homepage({ user, cards, error }) {
                                         : <></>
                                     }
                                     {card.position ? <text style={{ color: 'rgb(99, 90, 112)' }}> ⌋ {card.position}</text> : <></>}
-                                    <div style={{ marginTop: 4, display: 'flex', marginLeft: 22 }}>
+                                    <div style={{ marginTop: 4, display: 'flex' }}>
                                         <HiOutlineNewspaper style={{ minHeight: 22, minWidth: 22 }} />
                                         <div style={{ marginTop: 2 }}>&nbsp;{card.description}</div>
                                     </div>
