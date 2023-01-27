@@ -63,7 +63,7 @@ export default function Homepage({ user, cards, error }) {
                             <div style={{ marginTop: 8, marginLeft: 12 }}>
                                 Are you interested in working together or just having a conversation? <br />
                                 Join my <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://discord.gg/a3av4pZMx2')}>Discord server</button> and shoot me a ping or email me at <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('mailto:hi@mraustin.net')}>hi@mraustin.net</button>!
-                                Please note that my timezone is <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://time.is/Los_Angeles')}>GMT-8</button> when reaching out to me.
+                                Please note that my timezone is <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://time.is/Los_Angeles')}>UTC-8</button> when reaching out to me.
                             </div>
                         </div>
                         <div className={user?.activities.length > 0 ? style.section : ''}>
