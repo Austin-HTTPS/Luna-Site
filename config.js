@@ -36,12 +36,6 @@ module.exports = {
         url: 'https://discord.gg/circlelabs',
         position: `Head Moderator`,
      }, {
-        name: 'Olixs Corner Shop',
-        icon: 'olix.png',
-        description: 'Server for the youtuber Olix with over 400,000 subscribers. Main theme of Roblox but not limited to.',
-        url: 'https://discord.gg/olix',
-        position: `Moderator`,
-    }, {
         name: 'Nintendo',
         icon: 'nintendo.gif',
         description: 'Discuss and share content from your favorite franchises with, team up and play games together, or just hang around and have a good time!',

@@ -110,7 +110,7 @@ export default function Homepage({ user, cards, error }) {
                                     {card.position ? <text style={{ color: 'rgb(99, 90, 112)' }}> ⌋ {card.position}</text> : <></>}
                                     <div style={{ marginTop: 4, display: 'flex' }}>
                                         <HiOutlineNewspaper style={{ minHeight: 22, minWidth: 22 }} />
-                                        <div style={{ marginTop: 2 }}>&nbsp;{card.description}</div style={{ marginLeft: 2 }}>
+                                        <div style={{ marginTop: 2 }}>&nbsp;{card.description}</div>
                                     </div>
                                     <button style={{ marginTop: 4, display: 'flex', color: 'currentColor', cursor: 'pointer' }} onClick={() => window.open(card.url)}>
                                         <HiOutlineLink style={{ minHeight: 21, minWidth: 21 }} />
