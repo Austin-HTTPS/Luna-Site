@@ -56,7 +56,6 @@ export default function Homepage({ user, cards, error }) {
                                 <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://twitter.com/NotMrAustin')}><img src="/twitter.png" style={{ width: 18, height: 19 }} /> @NotMrAustin</button><br />
                                 <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://www.twitch.tv/notmraustin')}><img src="/twitch.png" style={{ width: 18, height: 19 }} /> NotMrAustin</button><br />
                               <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://open.spotify.com/user/5xs3jjay7vb1yau2yzklzt9cm')}><img src="/spotify.png" style={{ width: 18, height: 19 }} /> notmraustin</button><br />
-                              <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://www.reddit.com/user/NotMrAustin')}><img src="/reddit.png" style={{ width: 18, height: 19 }} /> u/NotMrAustin</button><br />
                             </div>
                             <br />
                             <strong style={{ fontSize: 27 }}>🍧 Contact</strong><br />
@@ -111,7 +110,7 @@ export default function Homepage({ user, cards, error }) {
                                     {card.position ? <text style={{ color: 'rgb(99, 90, 112)' }}> ⌋ {card.position}</text> : <></>}
                                     <div style={{ marginTop: 4, display: 'flex' }}>
                                         <HiOutlineNewspaper style={{ minHeight: 22, minWidth: 22 }} />
-                                        <div style={{ marginTop: 2 }}>&nbsp;{card.description}</div>
+                                        <div style={{ marginTop: 2 }}>&nbsp;{card.description}</div style={{ marginLeft: 2 }}>
                                     </div>
                                     <button style={{ marginTop: 4, display: 'flex', color: 'currentColor', cursor: 'pointer' }} onClick={() => window.open(card.url)}>
                                         <HiOutlineLink style={{ minHeight: 21, minWidth: 21 }} />
