@@ -61,8 +61,8 @@ export default function Homepage({ user, cards, error }) {
                             <strong style={{ fontSize: 27 }}>🍧 Contact</strong><br />
                             <div style={{ marginTop: 8, marginLeft: 12 }}>
                                 Are you interested in working together or just having a conversation? <br />
-                                Join my <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://discord.gg/a3av4pZMx2')}>Discord server</button> and shoot me a ping or email me at <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('mailto:hi@mraustin.net')}>hi@mraustin.net</button>!
-                                Please note that my timezone is <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://time.is/Los_Angeles')}>UTC-8</button> when reaching out to me.
+                                Join my <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://discord.gg/a3av4pZMx2')}>Discord server</button> and shoot me a ping or email me at <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('mailto:hi@mraustin.net')}>hi@mraustin.net</button>! Access my resume by clicking <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://docs.google.com/spreadsheets/d/1aFIAiRhEyqYBbED81iIF0UHdWNSNIYp6K5ygTwHFkbI/edit?usp=sharing')}>here</button>.
+                                <br /><br />Please note that my timezone is <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://time.is/Los_Angeles')}>UTC-8</button> when reaching out to me.
                             </div>
                         </div>
                         <div className={user?.activities.length > 0 ? style.section : ''}>

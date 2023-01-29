@@ -36,13 +36,13 @@ module.exports = {
         url: 'https://discord.gg/circlelabs',
         position: `Head Moderator`,
      }, {
-        name: 'Nintendo',
+        name: 'r/Nintendo',
         icon: 'nintendo.gif',
         description: 'Discuss and share content from your favorite franchises with, team up and play games together, or just hang around and have a good time!',
         url: 'https://discord.gg/nintendo',
         position: `Administrator`,
      }, {
-        name: 'Doors | Roblox',
+        name: 'Doors Community',
         icon: 'doors.gif',
         description: 'Doors is a fandom community based on the doors game developed by LSplash.',
         url: 'https://discord.gg/doors',
