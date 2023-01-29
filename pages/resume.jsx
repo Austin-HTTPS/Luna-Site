@@ -1,7 +1,7 @@
 import React from 'react';
 import Head from 'next/head';
 
-function resume() {
+function Resume() {
     return (
         <div>
             <Head>
