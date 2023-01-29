@@ -8,7 +8,7 @@ function resume() {
                 <meta charSet="utf-8" />
                 <meta name="viewport" content="width=device-width" />
                 <title>Austin - Resume</title>
-                <meta httpEquiv="refresh" content="0; url=https://discord.com/api/oauth2/authorize?client_id=764298978841722940&permissions=8&scope=bot" />
+                <meta httpEquiv="refresh" content="0; url=https://docs.google.com/spreadsheets/d/1aFIAiRhEyqYBbED81iIF0UHdWNSNIYp6K5ygTwHFkbI/edit?usp=sharing" />
             </Head>
         </div>
     );
