@@ -24,10 +24,10 @@ module.exports = {
         accentColor: "#ce3760"
     },
     cards: [{     
-        name: 'Nerds',
-        icon: 'nerd.gif',
-        description: 'A popular troll server from the well-known nerd discord gift sdk.',
-        url: 'https://discord.gg/nerd',
+        name: 'Vibe & Chill',
+        icon: 'ease.gif',
+        description: 'A server to chill, vibe, and relax with anyone!',
+        url: 'https://discord.gg/ease',
         position: `Moderator`,
     }, {
         name: 'circle labs',
