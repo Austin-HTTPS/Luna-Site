@@ -24,12 +24,6 @@ module.exports = {
         accentColor: "#ce3760"
     },
     cards: [{     
-        name: 'Vibe & Chill',
-        icon: 'ease.gif',
-        description: 'A server to chill, vibe, and relax with anyone!',
-        url: 'https://discord.gg/ease',
-        position: `Moderator`,
-    }, {
         name: 'circle labs',
         icon: 'circlelabs.gif',
         description: 'Create awesome AI chatbots with its own personalities, memories, and brainpower!',
