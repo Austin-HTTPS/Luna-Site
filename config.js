@@ -30,7 +30,7 @@ module.exports = {
         url: 'https://discord.gg/circlelabs',
         position: `Community Manager`,
      }, {
-        name: 'r/Nintendo',
+        name: 'r/Nintendo Discord',
         icon: 'nintendo.gif',
         description: 'Discuss and share content from your favorite franchises with, team up and play games together, or just hang around and have a good time!',
         url: 'https://discord.gg/nintendo',

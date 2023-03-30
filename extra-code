@@ -1,90 +1,3 @@
-                              <div class="time">
-          <HiClock style={{ height: 22, width: 22, marginRight: 4 }} />
-        <span class="date-time" id="date-time"></span>
-                              </div>
-                            <script>
-  dateTime();
-  const d = new Date(); <-- maybe!
-  function dateTime() {
-    const d = new Date();
-    const date = d.toLocaleDateString("en-US", {
-      timeZone: "America/Los_Angeles",
-      year: "numeric",
-      month: "long",
-      day: "numeric",
-    });
-    const time = d.toLocaleTimeString("en-US", {
-      timeZone: "America/Los_Angeles",
-      hour: "numeric",
-      minute: "numeric",
-      second: "numeric",
-    });
-    document.getElementById("date-time").innerHTML = `${date} • ${time}`;
-  }
-
-  setInterval(dateTime, 1000);
-</script>
-
--_-_-__---_--------------------------------------------------------------------------------------------------
-
-    }, {    
-        name: 'MC Bedrock Chillzone',
-        icon: 'a_b33fc7d48d66fc39ccee397d752426fd.gif',
-        description: 'MC Bedrock Chillzone, a relaxing server created to bring the Minecraft Bedrock community together!',
-        url: 'https://discord.gg/VxXNywGx8U',
-        position: `Former Community Lead`,
-    }, {
-        name: 'Halos Hut',
-        icon: 'cb9c106df86b493455a1cce977d2e867.webp',
-        description: 'Halos Hut, a friendly Discord and Minecraft server.',
-        url: 'https://halostv.com/',
-        position: `MC Staff & Support & Events`,
-    }, {
-        name: 'Book of Discord',
-        icon: 'bookofdiscord.webp',
-        description: 'We are dedicated to providing a safe and inclusive space for the discord community to come together and learn about the platform at the same time.',
-        url: 'https://discord.gg/HEeTAUXYww',
-        position: `Trial Moderator`,
-    }, {
-        name: 'Filmmaker Basics',
-        icon: 'filmmakers.gif',
-        description: 'This server was created to help beginning filmmakers/content creators (or people interested in it) grow.',
-        url: 'https://discord.gg/TrqAY8xH',
-        position: `Trainee Moderator`,
-    }, {
-        name: 'WarzoneMC',
-        icon: 'a_e6e56bad26599c76ab7288c60c4d4eb3.gif',
-        description: 'Warzone is a team organized gamemode where your goal is to follow the objective of the round while stopping the other team from achieving so too.',
-        url: 'https://warzone.network',
-        position: `Former Jr. Mod`,
-    }, {
-        name: 'The Beehive',
-        icon: '979c5ce915e63338054fe1ffc647844d.webp',
-        description: 'The Beehive is a hub for all Minecrafters to come together and socialize in a safe corner of the internet.',
-        url: 'https://discord.gg/8M26wxkRPj',
-        position: `Former Helper`,
-    }, {
-        name: 'Design Academy',
-        icon: 'design101.gif',
-        description: 'We are a community where you improve your design & crafting skills, get hired and open a store of your own.',
-        url: 'https://discord.gg/design101',
-        position: `Head Moderator`,
-    }, {
-        name: 'Austins Oasis',
-        icon: 'a_b9dba793d63a6e6e33236f6ce82177ce.gif',
-        description: 'A Discord server to chill and chat! And, a fun SMP with a ton of plugins to make the game look, sound, and feel better!',
-        url: 'https://discord.gg/a3av4pZMx2',
-        position: `Owner`,
-
-
-
-
-
-
-
-
-
-
 <script async src="https://arc.io/widget.min.js#FadhhMa3"></script>
 /////////////////////////////////
 <ul className='position-button'>
@@ -128,3 +41,12 @@ for _app.js:
                         <div>Made with&nbsp;<AiFillHeart style={{ position: 'relative', top: 2 }} />&nbsp;by&nbsp;Luna</div>
                     </button>
                 </div>
+
+
+
+
+
+
+
+
+I would also like to extend my gratitude to <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://twitter.com/funnydusto')}>@funnydusto</button> for creating my exceptional profile picture and <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://shop.mrstefan.art')}>@MrStefan</button> for designing my outstanding banner featured on this website. Their talents have greatly elevated the overall aesthetic and presentation of my online presence.
