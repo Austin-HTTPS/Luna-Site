@@ -52,7 +52,6 @@ export default function Homepage({ user, cards, error }) {
                             <div style={{ marginTop: 8, marginLeft: 12 }}>
                                 <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://discord.gg/a3av4pZMx2')}><img src="/discord.png" style={{ width: 18, height: 19 }} /> MrAustin#3915</button><br />
                                 <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://github.com/Austin-HTTPS')}><img src="/github.png" style={{ width: 18, height: 19 }} /> Austin-HTTPS</button><br />
-                                <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://www.twitch.tv/notmraustin')}><img src="/twitch.png" style={{ width: 18, height: 19 }} /> NotMrAustin</button><br />
                               <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://open.spotify.com/user/5xs3jjay7vb1yau2yzklzt9cm')}><img src="/spotify.png" style={{ width: 18, height: 19 }} /> notmraustin</button><br />
                             </div>
                             <br />
