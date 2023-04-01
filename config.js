@@ -43,7 +43,7 @@ module.exports = {
         position: `Moderator`
     }],
     header: {
-        icon: `pfpss.png`,
+        icon: `pfpss2.png`,
         name: `Austin`,
         buttons: {
             Discord: `/discord`,
