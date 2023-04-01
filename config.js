@@ -8,7 +8,7 @@ module.exports = {
         username: "MrAustin",
         discriminator: "3915",
         nickname: "Austin",
-        nickavatar: "pfpss.png",
+        nickavatar: "pfpss2.png",
         status: {
             state: {
                 text: "dnd",
@@ -43,7 +43,7 @@ module.exports = {
         position: `Moderator`
     }],
     header: {
-        icon: `pfpss2.png`,
+        icon: `pfpss.png`,
         name: `Austin`,
         buttons: {
             Discord: `/discord`,
