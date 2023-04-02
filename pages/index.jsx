@@ -44,8 +44,6 @@ export default function Homepage({ user, cards, error }) {
                             <div style={{ marginTop: 8, marginLeft: 12 }}>
                                 I am <strong>Austin</strong>, a skilled developer and moderator with experience in creating bots and managing communities on both the Discord and Minecraft platforms. I have acquired extensive knowledge and skills in various areas such as moderation, Minecraft, and more through self-study. I am often found providing moderation services and supporting communities on the Discord platform. My current goals include obtaining the partnership badge on the Discord platform and becoming a proficient player in Minecraft.
                               <br /><br />
-                              I express my gratitude to all those who have assisted me in reaching my current position, as well as to my friends for their unwavering support. Through my experiences on Minecraft and Discord, I have had the pleasure of making many wonderful connections. It is important to note that I only add individuals to my friend list on the Discord platform who I am personally acquainted with or have a professional association with.
-                              <br /><br />
                             </div>
                             <br />
                             <strong style={{ fontSize: 27 }}>🐦 Social Medias</strong><br />
@@ -59,7 +57,7 @@ export default function Homepage({ user, cards, error }) {
                             <div style={{ marginTop: 8, marginLeft: 12 }}>
                                 Are you interested in working together or just having a conversation? <br />
                                 Join my <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://discord.gg/a3av4pZMx2')}>Discord server</button> and shoot me a ping or email me at <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('mailto:hi@mraustin.net')}>hi@mraustin.net</button>! Access my resume by clicking <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://docs.google.com/spreadsheets/d/1aFIAiRhEyqYBbED81iIF0UHdWNSNIYp6K5ygTwHFkbI/edit?usp=sharing')}>here</button>.
-                                <br /><br />Please note that my timezone is <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://time.is/Los_Angeles')}>UTC-8</button> when reaching out to me.
+                                <br /><br />Please note that my timezone is <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://time.is/Los_Angeles')}>UTC-7</button> when reaching out to me.
                             </div>
                         </div>
                         <div className={user?.activities.length > 0 ? style.section : ''}>
