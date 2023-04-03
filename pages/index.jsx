@@ -43,7 +43,7 @@ export default function Homepage({ user, cards, error }) {
                             <strong style={{ fontSize: 27 }}>👋 About me</strong> <br />
                             <div style={{ marginTop: 8, marginLeft: 12 }}>
                                 I am <strong>Austin</strong>, a skilled developer and moderator with experience in creating bots and managing communities on both the Discord and Minecraft platforms. I have acquired extensive knowledge and skills in various areas such as moderation, Minecraft, and more through self-study. I am often found providing moderation services and supporting communities on the Discord platform. My current goals include obtaining the partnership badge on the Discord platform and becoming a proficient player in Minecraft.
-                              <br /><br />
+                              <br />
                             </div>
                             <br />
                             <strong style={{ fontSize: 27 }}>🐦 Social Medias</strong><br />
