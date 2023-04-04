@@ -53,7 +53,7 @@ module.exports = {
     },
     metadata: {
         title: `MrAustin`,
-        description: `I am Austin, a skilled developer and moderator with experience in creating bots and managing communities on both the Discord and Minecraft platforms. Check out my website for additional information about me!`,
+        description: `I am Austin, a inspired developer and skilled moderator with experience in creating bots and managing communities on both the Discord and Minecraft platforms. Check out my website for additional information about me!`,
         image: `pfpss2.png`,
         domainName: `mraustin.net`,
         color: `#f19bec`,
@@ -61,24 +61,18 @@ module.exports = {
             'Austin',
             'MrAustin',
             'MrAustin#3915',
-            'Beddzie',
             'NotMrAustin',
             'Austins Oasis',
-            'Austin SMP',
+            'AustinSMP',
             'AustinLmao',
-            'AyoAustin',
             'Minecraft',
-            'WarzoneMC',
-            'MC Bedrock Chillzone',
-            'austinispog.tk',
             'mraustin.net',
-            'The Beehive',
-            'MCBC',
             'Moderator',
             'Developer',
-            'Partner',
-            'Content Creator',
-            'bots'
+            'bots',
+            'r/Nintendo',
+            'circle labs',
+            'Doors Community'
         ],
     }
 }
