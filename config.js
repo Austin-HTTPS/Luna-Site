@@ -15,7 +15,7 @@ module.exports = {
                 color: "#ED4245"
             },
             emote: "status.gif",
-            text: "when all is lost, all is found"
+            text: "opportunities dont happen, you create them"
         },
         activities: [],
         createdTimestamp: 1615924806867,
