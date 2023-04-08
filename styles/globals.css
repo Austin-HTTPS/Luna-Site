@@ -8,7 +8,6 @@ html {
     font-family: 'Ubuntu', sans-serif;
     /* background: rgb(36, 32, 41); */
     background-image: url("https://mraustin.net/bgimg.gif"); 
-    background-size: cover;
     position: relative;
     min-height: 100vh;
     overflow-x: hidden;
