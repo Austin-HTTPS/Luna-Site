@@ -26,19 +26,19 @@ module.exports = {
     cards: [{     
         name: 'circle labs',
         icon: 'circlelabs.gif',
-        description: 'Create awesome AI chatbots with its own personalities, memories, and brainpower!',
+        description: 'Create awesome AI chatbots with its own personalities!',
         url: 'https://discord.gg/circlelabs',
         position: `Community Manager`,
      }, {
         name: 'r/Nintendo Discord',
         icon: 'nintendo.gif',
-        description: 'Discuss and share content from your favorite franchises with, team up and play games together, or just hang around and have a good time!',
+        description: 'Discuss and share content from your favorite franchises and hang around and have a good time!',
         url: 'https://discord.gg/nintendo',
         position: `Administrator`,
      }, {
         name: 'Doors Community',
         icon: 'doors.gif',
-        description: 'Doors is a fandom community based on the doors game developed by LSplash.',
+        description: 'Doors is a fandom community based on the doors roblox game!',
         url: 'https://discord.gg/doors',
         position: `Moderator`
     }],
