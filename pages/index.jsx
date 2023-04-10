@@ -48,9 +48,9 @@ export default function Homepage({ user, cards, error }) {
                             <br />
                             <strong style={{ fontSize: 27 }}>🐦 Social Medias</strong><br />
                             <div style={{ marginTop: 8, marginLeft: 12 }}>
-                                <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://discord.gg/a3av4pZMx2')}><img src="/discord.png" style={{ width: 14, height: 18 }} /> MrAustin#3915</button><br />
-                                <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://github.com/Austin-HTTPS')}><img src="/github.png" style={{ width: 14, height: 18 }} /> Austin-HTTPS</button><br />
-                              <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://open.spotify.com/user/5xs3jjay7vb1yau2yzklzt9cm')}><img src="/spotify.png" style={{ width: 14, height: 18 }} /> notmraustin</button><br />
+                                <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://discord.gg/a3av4pZMx2')}><img src="/discord.png" style={{ width: 18, height: 14 }} /> MrAustin#3915</button><br />
+                                <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://github.com/Austin-HTTPS')}><img src="/github.png" style={{ width: 18, height: 14 }} /> Austin-HTTPS</button><br />
+                              <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://open.spotify.com/user/5xs3jjay7vb1yau2yzklzt9cm')}><img src="/spotify.png" style={{ width: 18, height: 14 }} /> notmraustin</button><br />
                             </div>
                             <br />
                             <strong style={{ fontSize: 27 }}>🍧 Contact</strong><br />
