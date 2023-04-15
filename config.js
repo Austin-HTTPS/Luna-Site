@@ -15,7 +15,7 @@ module.exports = {
                 color: "#ED4245"
             },
             emote: "status.gif",
-            text: "if you only do what you can do, you will never be more than you are now"
+            text: "if there is a hole, there is a goal - masteroogwgay"
         },
         activities: [],
         createdTimestamp: 1615924806867,
