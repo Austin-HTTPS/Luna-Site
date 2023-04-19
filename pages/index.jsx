@@ -34,7 +34,7 @@ export default function Homepage({ user, cards, error }) {
                             }
                         </div>
                         <div className={style.badges} style={(user?.status?.emote || user?.status?.text) ? { marginTop: 8 } : { marginTop: width > 540 ? 14 : 4 }}>
-                            <button className={style.badge} title='https://open.spotify.com/user/5xs3jjay7vb1yau2yzklzt9cm' onClick={() => window.open('')}> <HiOutlinePlay style={{ height: 22, width: 22, marginRight: 4 }} /> Music Enjoyer </button>
+                            <button className={style.badge} title='https://open.spotify.com/user/5xs3jjay7vb1yau2yzklzt9cm' onClick={() => window.open('')}> <HiOutlinePlay style={{ height: 22, width: 22, marginRight: 4 }} /> Listener </button>
                             <button className={style.badge} title='https://discord.gg/a3av4pZMx2' onClick={() => window.open('https://discord.gg/a3av4pZMx2')}> <HiOutlineShieldCheck style={{ height: 22, width: 22, marginRight: 4 }} /> Moderator </button>
                         </div>
                     </div>
