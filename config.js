@@ -46,7 +46,7 @@ module.exports = {
         icon: 'doors.gif',
         description: 'Doors is a fandom community based on the doors roblox game!',
         url: 'https://discord.gg/doors',
-        position: `Moderator`
+        position: `Head Moderator`
     }],
     header: {
         icon: `pfpss2.png`,
@@ -78,7 +78,8 @@ module.exports = {
             'bots',
             'r/Nintendo',
             'circle labs',
-            'Doors Community'
+            'Doors Community',
+            'Ay2k'
         ],
     }
 }

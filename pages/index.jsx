@@ -42,15 +42,15 @@ export default function Homepage({ user, cards, error }) {
                         <div className={style.readme}>
                             <strong style={{ fontSize: 27 }}>👋 About me</strong> <br />
                             <div style={{ marginTop: 8, marginLeft: 12 }}>
-                                I am <strong>Austin</strong>, an inspired developer and skilled moderator with experience in creating bots and managing communities on both the Discord and Minecraft platforms. I have acquired extensive knowledge and skills in various areas such as moderation, Minecraft, and more through self-study. I am often found providing moderation services and supporting communities on the Discord platform. My current goals include obtaining the partnership badge on the Discord platform and becoming a proficient player in Minecraft.
+                                I am <strong>Austin, aka Ay2k</strong>, an inspired developer and skilled moderator with experience in creating bots and managing communities on both the Discord and Minecraft platforms. I have acquired extensive knowledge and skills in various areas such as moderation, Minecraft, and more through self-study. I am often found providing moderation services and supporting communities on the Discord platform.
                               <br />
                             </div>
                             <br />
                             <strong style={{ fontSize: 27 }}>🐦 Social Medias</strong><br />
                             <div style={{ marginTop: 8, marginLeft: 12 }}>
                                 <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://discord.gg/a3av4pZMx2')}><img src="/discord.png" style={{ width: 18, height: 14 }} /> MrAustin#3915</button><br />
-                                <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://github.com/Austin-HTTPS')}><img src="/github.png" style={{ width: 18, height: 14 }} /> Austin-HTTPS</button><br />
-                              <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://open.spotify.com/user/5xs3jjay7vb1yau2yzklzt9cm')}><img src="/spotify.png" style={{ width: 18, height: 14 }} /> notmraustin</button><br />
+                                <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://github.com/Austin-HTTPS')}><img src="/github.png" style={{ width: 18, height: 14 }} /> Austin-HTTPS/Ay2k</button><br />
+                              <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://open.spotify.com/user/5xs3jjay7vb1yau2yzklzt9cm')}><img src="/spotify.png" style={{ width: 18, height: 14 }} /> Ay2k</button><br />
                             </div>
                             <br />
                             <strong style={{ fontSize: 27 }}>🍧 Contact</strong><br />
