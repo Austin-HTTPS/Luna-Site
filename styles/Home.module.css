@@ -150,6 +150,7 @@
 .icon {
     position: absolute;
     height: 5rem;
+    width: 5rem;
     right: -0.4rem;
     top: -0.4rem;
     border-radius: 0.4rem;
