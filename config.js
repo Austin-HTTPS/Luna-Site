@@ -36,12 +36,6 @@ module.exports = {
         url: 'https://discord.gg/nintendo',
         position: `Administrator`,
      }, {
-        name: 'Lounge',
-        icon: 'lounge.gif',
-        description: 'Lounge around and meet new friends!',
-        url: 'https://discord.gg/lounge',
-        position: `Helper`,
-     }, {
         name: 'Doors Community',
         icon: 'doors.gif',
         description: 'Doors is a fandom community based on the doors roblox game!',
