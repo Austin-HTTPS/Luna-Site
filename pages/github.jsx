@@ -7,7 +7,7 @@ function Github() {
             <Head>
                 <meta charSet="utf-8" />
                 <meta name="viewport" content="width=device-width" />
-                <title>Austin - Github</title>
+                <title>ay2k - Github</title>
                 <meta httpEquiv="refresh" content="0; url=https://github.com/Austin-HTTPS" />
             </Head>
         </div>

@@ -5,9 +5,9 @@ module.exports = {
   },
   user: {
     id: "599336348381609984",
-    username: "MrAustin",
+    username: "ay2k",
     discriminator: "3915",
-    nickname: "Austin",
+    nickname: "ay2k",
     nickavatar: "pfpss2.png",
     status: {
       state: {
@@ -44,7 +44,7 @@ module.exports = {
   }],
   header: {
     icon: `pfpss2.png`,
-    name: `Austin`,
+    name: `ay2k`,
     buttons: {
       Discord: `/discord`,
       GitHub: `/github`,
@@ -52,19 +52,16 @@ module.exports = {
     }
   },
   metadata: {
-    title: `MrAustin`,
-    description: `I am Austin, a inspired developer and skilled moderator with experience in creating bots and managing communities on both the Discord and Minecraft platforms. Check out my website for additional information about me!`,
+    title: `ay2k`,
+    description: `I am ay2k, a inspired developer and skilled moderator with experience in creating bots and managing communities on both the Discord and Minecraft platforms. Check out my website for additional information about me!`,
     image: `pfpss2.png`,
     domainName: `mraustin.net`,
     color: `#f19bec`,
     keywords: [
-      'Austin',
-      'MrAustin',
-      'MrAustin#3915',
-      'NotMrAustin',
+      'ay2k',
+      'ay2k#3915',
       'Austins Oasis',
       'AustinSMP',
-      'AustinLmao',
       'Minecraft',
       'mraustin.net',
       'Moderator',
@@ -72,8 +69,7 @@ module.exports = {
       'bots',
       'r/Nintendo',
       'circle labs',
-      'Doors Community',
-      'Ay2k'
+      'Doors Community'
     ],
   }
 }

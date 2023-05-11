@@ -8,7 +8,7 @@ function Example() {
             <Head>
                 <meta charSet="utf-8" />
                 <meta name="viewport" content="width=device-width" />
-                <title>Austin - Example</title>
+                <title>ay2k - Example</title>
                 <meta httpEquiv="refresh" content="0; url=https://example.com" />
             </Head>
         </div>
