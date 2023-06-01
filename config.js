@@ -53,7 +53,7 @@ module.exports = {
   },
   metadata: {
     title: `ay2k`,
-    description: `I am ay2k, a inspired developer and skilled moderator with experience in creating bots and managing communities on both the Discord and Minecraft platforms. Check out my website for additional information about me!`,
+    description: `I am ay2k, a skilled moderator and manager with experience in moderating and managing communities on both the Discord and Minecraft platforms. Check out my website for additional information about me!`,
     image: `pfpss2.png`,
     domainName: `mraustin.net`,
     color: `#f19bec`,
@@ -65,6 +65,7 @@ module.exports = {
       'Minecraft',
       'mraustin.net',
       'Moderator',
+      'Manager',
       'Developer',
       'bots',
       'r/Nintendo',
