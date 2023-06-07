@@ -28,7 +28,7 @@ module.exports = {
     icon: 'circlelabs.gif',
     description: 'Create awesome AI chatbots with its own personalities!',
     url: 'https://discord.gg/circlelabs',
-    position: `Community Manager`,
+    position: `Developer`,
   }, {
     name: 'r/Nintendo',
     icon: 'nintendo.gif',
