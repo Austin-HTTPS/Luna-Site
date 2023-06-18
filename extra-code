@@ -90,7 +90,7 @@ on layout.jsx between <header>
 
 
 
-
+..........
 
 
 <br /><br />Please note that my timezone is <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://time.is/Los_Angeles')}>UTC-7</button> when reaching out to me.
