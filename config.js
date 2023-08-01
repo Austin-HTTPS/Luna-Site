@@ -24,8 +24,8 @@ module.exports = {
     accentColor: "#ce3760"
   },
   cards: [{
-    name: 'circle labs',
-    icon: 'circlelabs.gif',
+    name: 'shape co',
+    icon: 'shapeco.gif',
     description: 'Create awesome AI chatbots with its own personalities!',
     url: 'https://discord.gg/circlelabs',
     position: `Developer`,
@@ -70,6 +70,7 @@ module.exports = {
       'bots',
       'r/Nintendo',
       'circle labs',
+      'shapeco',
       'Doors Community'
     ],
   }
