@@ -34,7 +34,13 @@ module.exports = {
     icon: 'doors.gif',
     description: 'Doors is a fandom community based on the doors roblox game!',
     url: 'https://discord.gg/doors',
-    position: `Head Moderator`
+    position: `Head Moderator`,
+  }, {
+    name: 'BeyondAI',
+    icon: 'beyondai.png',
+    description: 'BeyondAI is a Discord server that focuses on creating chatbots in just a few minutes!',
+    url: 'https://discord.gg/beyondai',
+    position: `Administrator`
   }],
   header: {
     icon: `pfpss2.png`,
