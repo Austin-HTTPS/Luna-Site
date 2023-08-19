@@ -14,13 +14,13 @@ module.exports = {
         text: "dnd",
         color: "#ED4245"
       },
-      emote: "status.gif",
-      text: "impossible is for the unwilling"
+      emote: "status.png",
+      text: "wit great power comes great babes"
     },
     activities: [],
     createdTimestamp: 1615924806867,
     avatar: "pfpss.png",
-    banner: "banner.gif",
+    banner: "banner.png",
     accentColor: "#ce3760"
   },
   cards: [{
@@ -71,6 +71,7 @@ module.exports = {
       'r/Nintendo',
       'circle labs',
       'shapeco',
+      'BeyondAI',
       'Doors Community'
     ],
   }
