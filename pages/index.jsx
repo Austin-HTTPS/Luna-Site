@@ -42,7 +42,11 @@ export default function Homepage({ user, cards, error }) {
                         <div className={style.readme}>
                             <strong style={{ fontSize: 27 }}>👋 About me</strong> <br />
                             <div style={{ marginTop: 8, marginLeft: 12 }}>
-                                I am <strong>ay2k</strong>, a skilled moderator and manager with experience in managing and moderating communities on both the Discord and Minecraft platforms. I have acquired extensive knowledge and skills in various areas such as moderation, Minecraft, and more through self-study. I am often found providing moderation services and supporting communities on the Discord platform.
+                                I'm <strong>ay2k</strong>, a proficient moderator and manager with a background in overseeing and moderating communities on both Discord and Minecraft platforms. I have acquired extensive knowledge and skills in various areas such as moderation, management, and more through self-study. I am often found providing moderation/management services and supporting communities on the Discord platform. 
+                              <br />
+                                My journey started on Minecraft, moderating for a largely dedicated community, before leading me through Discord, where I found my home. Over the years, I've engaged with a variety of communities, consistently demonstrating <strong>my extensive skillset</strong> in crafting online environments conducive to the growth of vibrant and harmonious communities. I have consistently strived to enhance my knowledge and capabilities, guiding me along an in-depth exploration of community management and diverse moderation philosophies. 
+                              <br />
+                                Still feeling uncertain about me? No need to worry. Take a moment to explore the feedback shared by others <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://mraustin.net/testimonials')}>here</button>...
                               <br />
                             </div>
                             <br />
