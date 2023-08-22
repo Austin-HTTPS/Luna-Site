@@ -40,7 +40,7 @@ module.exports = {
     icon: 'beyondai.png',
     description: 'BeyondAI is a Discord server that focuses on creating chatbots in just a few minutes!',
     url: 'https://discord.gg/beyondai',
-    position: `Administrator`
+    position: `Co-Owner`
   }],
   header: {
     icon: `pfpss2.png`,
