@@ -36,6 +36,12 @@ module.exports = {
     url: 'https://discord.gg/doors',
     position: `Head Moderator`,
   }, {
+    name: 'WNR.ai',
+    icon: 'wnr.png',
+    description: 'Create your own AIs that can chat with images and voice, free from restrictions.',
+    url: 'https://discord.gg/PEt6gmJQzq',
+    position: `Server Manager`,
+  }, {
     name: 'BeyondAI',
     icon: 'beyondai.png',
     description: 'BeyondAI is a Discord server that focuses on creating chatbots in just a few minutes!',
@@ -72,7 +78,10 @@ module.exports = {
       'circle labs',
       'shapeco',
       'BeyondAI',
-      'Doors Community'
+      'Doors Community',
+      'WNR.ai',
+      'WNR',
+      'AI'
     ],
   }
 }
