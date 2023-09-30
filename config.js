@@ -40,7 +40,7 @@ module.exports = {
     icon: 'wnr.png',
     description: 'Create your own AIs that can chat with images and voice, free from restrictions.',
     url: 'https://discord.gg/PEt6gmJQzq',
-    position: `Server Manager / Administrator,
+    position: `Server Manager / Administrator,`
   }, {
     name: 'BeyondAI',
     icon: 'beyondai.png',
