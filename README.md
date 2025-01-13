@@ -1,6 +1,6 @@
 <h1 align="center">Luna Site</h1>
 
-[![Preview](https://cdn.waya.one/r/1644002382.png)](https://cdn.waya.one/r/1644002382.png)
+
 <br />
 
 ## Basics
